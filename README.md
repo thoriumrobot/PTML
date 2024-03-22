@@ -1,6 +1,5 @@
-Inferring Pluggable Types with Machine Learning
+# Inferring Pluggable Types with Machine Learning
 
-# nullgtn
 Deep Learning-based prediction of @Nullable nodes in Java
 
 2hv: Convert the training data into a graph.
