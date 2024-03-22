@@ -12,7 +12,7 @@ reann_cond_pairs: Reannotate input repositories with the GTN model.
 
 nullgcn: Train the GCN model.
 
-reann_gcn: Reannotate input repositories with the GTN model.
+cinnabar: Reannotate input repositories with the GCN model.
 
 magreann_copy: Reannotate repositoes with the Magicoder LLM assuming the server is running on the local machine.
 
