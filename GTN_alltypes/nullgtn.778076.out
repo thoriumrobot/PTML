@@ -1,0 +1,21 @@
+Starting /home/k/ks225/.bash_profile ... standard AFS bash profile
+
+========================
+Home directory : /home/k/ks225 is not in AFS -- skipping quota check
+========================
+
+On host node650 :
+	 17:28:01 up 41 days, 21:27,  1 user,  load average: 0.76, 1.65, 1.91
+
+=== === === Your Kerberos ticket and AFS token status === === ===
+klist: No credentials cache found (filename: /tmp/krb5cc_480898_qGIco78xIg)
+Kerberos : 
+AFS      : 
+
+Loading default modules ...
+Create file : "/home/k/ks225/.modules" to customize.
+
+No modules loaded
+srun: Job step aborted: Waiting up to 62 seconds for job step to finish.
+slurmstepd: error: *** STEP 778076.0 ON node650 CANCELLED AT 2023-09-03T17:28:29 ***
+slurmstepd: error: *** JOB 778076 ON node650 CANCELLED AT 2023-09-03T17:28:29 ***

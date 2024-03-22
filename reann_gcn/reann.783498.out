@@ -1,0 +1,210 @@
+Starting /home/k/ks225/.bash_profile ... standard AFS bash profile
+
+========================
+Home directory : /home/k/ks225 is not in AFS -- skipping quota check
+========================
+
+On host node412 :
+	 19:37:49 up 53 days, 23:38,  0 users,  load average: 0.00, 0.03, 0.15
+
+=== === === Your Kerberos ticket and AFS token status === === ===
+klist: No credentials cache found (filename: /tmp/krb5cc_480898_WlJw3r1R82)
+Kerberos : 
+AFS      : 
+
+Loading default modules ...
+Create file : "/home/k/ks225/.modules" to customize.
+
+No modules loaded
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] --------------------< com.njit.ASTExample:parsedbg >--------------------
+[INFO] Building parsedbg 1.0-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- clean:3.2.0:clean (default-clean) @ parsedbg ---
+[INFO] Deleting /home/k/ks225/nullproj/reann_2hv/target
+[INFO] 
+[INFO] --- resources:3.3.1:resources (default-resources) @ parsedbg ---
+[WARNING] Using platform encoding (ANSI_X3.4-1968 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory /home/k/ks225/nullproj/reann_2hv/src/main/resources
+[INFO] 
+[INFO] --- compiler:3.8.1:compile (default-compile) @ parsedbg ---
+[INFO] Changes detected - recompiling the module!
+[WARNING] File encoding has not been set, using platform encoding ANSI_X3.4-1968, i.e. build is platform dependent!
+[INFO] Compiling 7 source files to /home/k/ks225/nullproj/reann_2hv/target/classes
+[INFO] 
+[INFO] --- exec:3.0.0:java (default-cli) @ parsedbg ---
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+Warning: Could not parse: 
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  02:47 h
+[INFO] Finished at: 2023-09-15T22:25:37-04:00
+[INFO] ------------------------------------------------------------------------

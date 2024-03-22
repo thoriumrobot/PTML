@@ -1,0 +1,18 @@
+Starting /home/k/ks225/.bash_profile ... standard AFS bash profile
+
+========================
+Home directory : /home/k/ks225 is not in AFS -- skipping quota check
+========================
+
+On host node650 :
+	 14:31:05 up 55 days, 18:30,  1 user,  load average: 3.31, 3.28, 3.31
+
+=== === === Your Kerberos ticket and AFS token status === === ===
+klist: No credentials cache found (filename: /tmp/krb5cc_480898_VZrlCWN9h5)
+Kerberos : 
+AFS      : 
+
+Loading default modules ...
+Create file : "/home/k/ks225/.modules" to customize.
+
+No modules loaded

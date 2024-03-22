@@ -1,0 +1,205 @@
+Starting /home/k/ks225/.bash_profile ... standard AFS bash profile
+
+========================
+Home directory : /home/k/ks225 is not in AFS -- skipping quota check
+========================
+
+On host node415 :
+	 15:35:56 up 41 days, 19:36,  0 users,  load average: 0.00, 0.43, 1.23
+
+=== === === Your Kerberos ticket and AFS token status === === ===
+klist: No credentials cache found (filename: /tmp/krb5cc_480898_qGIco78xIg)
+Kerberos : 
+AFS      : 
+
+Loading default modules ...
+Create file : "/home/k/ks225/.modules" to customize.
+
+No modules loaded
+/home/k/ks225/annotations/spectral_new/data2.json
+721
+['CompilationUnit', 'PackageDeclaration', 'Name', 'ImportDeclaration', 'ClassOrInterfaceDeclaration', 'Modifier', 'SimpleName', 'FieldDeclaration', 'VariableDeclarator', 'ClassOrInterfaceType', 'ConstructorDeclaration', 'Parameter', 'NonNullMarkerAnnotationExpr', 'PrimitiveType', 'BlockStmt', 'IfStmt', 'BinaryExpr', 'NameExpr', 'NullLiteralExpr', 'IntegerLiteralExpr', 'ThrowStmt', 'ObjectCreationExpr', 'StringLiteralExpr', 'ExpressionStmt', 'AssignExpr', 'public MethodDeclaration', 'VoidType', 'MethodCallExpr', 'ConditionalExpr', 'ThisExpr', 'private booleanMethodDeclaration', 'ReturnStmt', 'OverrideMarkerAnnotationExpr', 'UnaryExpr', 'longMethodDeclaration', 'public booleanMethodDeclaration', 'static MethodDeclaration', 'native static private booleanMethodDeclaration', 'native static private MethodDeclaration', 'SystemApiMarkerAnnotationExpr', 'abstract public MethodDeclaration', 'abstract public intMethodDeclaration', 'DeprecatedMarkerAnnotationExpr', 'ArrayType', 'abstract public booleanMethodDeclaration', 'SingleMemberAnnotationExpr', 'ConfigFlagMarkerAnnotationExpr', 'BooleanLiteralExpr', 'CharLiteralExpr', 'ForEachStmt', 'VariableDeclarationExpr', 'UnsupportedAppUsageMarkerAnnotationExpr', 'private shortMethodDeclaration', 'private MethodDeclaration', 'TryStmt', 'AnnotationDeclaration', 'FieldAccessExpr', 'ArrayInitializerExpr', 'ExplicitConstructorInvocationStmt', 'public intMethodDeclaration', 'CastExpr', 'ArrayCreationExpr', 'ArrayCreationLevel', 'Vr2dDisplayFlagMarkerAnnotationExpr', 'static private MethodDeclaration', 'EnclosedExpr', 'NormalAnnotationExpr', 'MemberValuePair', 'MethodDeclaration', 'SwitchStmt', 'SwitchEntry', 'BreakStmt', 'BlockComment', 'InstanceOfExpr', 'static private booleanMethodDeclaration', 'ProfileTypeMarkerAnnotationExpr', 'CallbackExecutorMarkerAnnotationExpr', 'LambdaExpr', 'static public MethodDeclaration', 'ForStmt', 'ClassExpr', 'ArrayAccessExpr', 'final VariableDeclarationExpr', 'WhileStmt', 'SuperExpr', 'public charMethodDeclaration', 'static private intMethodDeclaration', 'intMethodDeclaration', 'AttributionFlagsMarkerAnnotationExpr', 'default MethodDeclaration', 'DoubleLiteralExpr', 'MethodReferenceExpr', 'TypeExpr', 'final public MethodDeclaration', 'ChangeIdMarkerAnnotationExpr', 'booleanMethodDeclaration', 'shortMethodDeclaration', 'floatMethodDeclaration', 'doubleMethodDeclaration', 'LineComment', 'ContinueStmt', 'TypeParameter', 'WildcardType', 'UserIdIntMarkerAnnotationExpr', 'SynchronizedStmt', 'UnknownType', 'SysUISingletonMarkerAnnotationExpr', 'InjectMarkerAnnotationExpr', 'ColorIntMarkerAnnotationExpr', 'ColorLongMarkerAnnotationExpr', 'protected longMethodDeclaration', 'native static private longMethodDeclaration', 'NotifyEventTypeMarkerAnnotationExpr', 'native private intMethodDeclaration', 'native private MethodDeclaration', 'InitializerDeclaration', 'protected MethodDeclaration', 'static public intMethodDeclaration', 'TypeMarkerAnnotationExpr', 'ResultMarkerAnnotationExpr', 'public longMethodDeclaration', 'VisibleForTestingMarkerAnnotationExpr', 'LongLiteralExpr', 'WorkerThreadMarkerAnnotationExpr', 'private intMethodDeclaration', 'MessageTypeMarkerAnnotationExpr', 'DisconnectCausesMarkerAnnotationExpr', 'PreciseDisconnectCausesMarkerAnnotationExpr', 'JavadocComment', 'native private longMethodDeclaration', 'native private booleanMethodDeclaration', 'NetworkTypeMarkerAnnotationExpr', 'CurrentTimeMillisLongMarkerAnnotationExpr', 'static public booleanMethodDeclaration', 'GameModeMarkerAnnotationExpr', 'TestApiMarkerAnnotationExpr', 'UserHandleAwareMarkerAnnotationExpr', 'final public booleanMethodDeclaration', 'final public intMethodDeclaration', 'NotNullMarkerAnnotationExpr', 'RotationMarkerAnnotationExpr', 'DimensionMarkerAnnotationExpr', 'final native public longMethodDeclaration', 'final native public MethodDeclaration', 'FontSlantMarkerAnnotationExpr', 'synchronized private MethodDeclaration', 'private doubleMethodDeclaration', 'static private doubleMethodDeclaration', 'synchronized static public MethodDeclaration', 'MemberMarkerAnnotationExpr', 'AnyThreadMarkerAnnotationExpr', 'static intMethodDeclaration', 'InputMethodNavButtonFlagsMarkerAnnotationExpr', 'static booleanMethodDeclaration', 'synchronized static private MethodDeclaration', 'OriginEnumMarkerAnnotationExpr', 'PurposeEnumMarkerAnnotationExpr', 'EncryptionPaddingEnumMarkerAnnotationExpr', 'SignaturePaddingEnumMarkerAnnotationExpr', 'DigestEnumMarkerAnnotationExpr', 'BlockModeEnumMarkerAnnotationExpr', 'AuthEnumMarkerAnnotationExpr', 'SecurityLevelEnumMarkerAnnotationExpr', 'CriticalNativeMarkerAnnotationExpr', 'native static private intMethodDeclaration', 'FastNativeMarkerAnnotationExpr', 'abstract protected intMethodDeclaration', 'MainMarkerAnnotationExpr', 'abstract protected MethodDeclaration', 'OriginMarkerAnnotationExpr', 'final static public intMethodDeclaration', 'static public longMethodDeclaration', 'InsetsTypeMarkerAnnotationExpr', 'public floatMethodDeclaration', 'DispatchModeMarkerAnnotationExpr', 'SecurityPatchStateMarkerAnnotationExpr', 'LevelMarkerAnnotationExpr', 'EventTypeMarkerAnnotationExpr', 'KeyAlgorithmEnumMarkerAnnotationExpr', 'BytesLongMarkerAnnotationExpr', 'StateMarkerAnnotationExpr', 'protected booleanMethodDeclaration', 'FlagsMarkerAnnotationExpr', 'protected intMethodDeclaration', 'AutofillTypeMarkerAnnotationExpr', 'VibrationIntensityMarkerAnnotationExpr', 'static private floatMethodDeclaration', 'final static public MethodDeclaration', 'final protected MethodDeclaration', 'private floatMethodDeclaration', 'StringResMarkerAnnotationExpr', 'StatusMarkerAnnotationExpr', 'AttrResMarkerAnnotationExpr', 'AppearanceMarkerAnnotationExpr', 'ActionTypeMarkerAnnotationExpr', 'FlagTypeMarkerAnnotationExpr', 'MainThreadMarkerAnnotationExpr', 'public default MethodDeclaration', 'CallSuperMarkerAnnotationExpr', 'OperationTypeMarkerAnnotationExpr', 'ActivityTypeMarkerAnnotationExpr', 'AvailabilityMarkerAnnotationExpr', 'RequestTemplateMarkerAnnotationExpr', 'ErrorCodeMarkerAnnotationExpr', 'CAMERA_AUDIO_RESTRICTIONMarkerAnnotationExpr', 'CapabilityStateMarkerAnnotationExpr', 'ImmutableMarkerAnnotationExpr', 'SamplingStrategyMarkerAnnotationExpr', 'WindowingModeMarkerAnnotationExpr', 'static protected booleanMethodDeclaration', 'abstract MethodDeclaration', 'LockoutModeMarkerAnnotationExpr', 'synchronized MethodDeclaration', 'StaticMarkerAnnotationExpr', 'DrawableResMarkerAnnotationExpr', 'IconTypeMarkerAnnotationExpr', 'static protected MethodDeclaration', 'SettingMarkerAnnotationExpr', 'TransitionOldTypeMarkerAnnotationExpr', 'RemoteViewMarkerAnnotationExpr', 'StyleResMarkerAnnotationExpr', 'RemotableViewMethodMarkerAnnotationExpr', 'abstract public longMethodDeclaration', 'ConfigMarkerAnnotationExpr', 'abstract protected booleanMethodDeclaration', 'synchronized public MethodDeclaration', 'ImplementationMarkerAnnotationExpr', 'DirectMarkerAnnotationExpr', 'OrientationMarkerAnnotationExpr', 'RuleMarkerAnnotationExpr', 'BeforeMarkerAnnotationExpr', 'AfterMarkerAnnotationExpr', 'TestMarkerAnnotationExpr', 'default booleanMethodDeclaration', 'final MethodDeclaration', 'ViewportTypeMarkerAnnotationExpr', 'static protected intMethodDeclaration', 'static public floatMethodDeclaration', 'EnrollReasonMarkerAnnotationExpr', 'SensorTypeMarkerAnnotationExpr', 'ElapsedRealtimeLongMarkerAnnotationExpr', 'EmptyStmt', 'ErrorMarkerAnnotationExpr', 'PriorityMarkerAnnotationExpr', 'ConnectorMarkerAnnotationExpr', 'final static private MethodDeclaration', 'PermissionInfoFlagsMarkerAnnotationExpr', 'PermissionWhitelistFlagsMarkerAnnotationExpr', 'RecognitionFailureCodeMarkerAnnotationExpr', 'static public byteMethodDeclaration', 'QueryFlagsMarkerAnnotationExpr', 'CiphersuiteMarkerAnnotationExpr', 'static private longMethodDeclaration', 'default public MethodDeclaration', 'FunctionalInterfaceMarkerAnnotationExpr', 'ApplyStrategyMarkerAnnotationExpr', 'PermissionResultMarkerAnnotationExpr', 'EnumDeclaration', 'EnumConstantDeclaration', 'RequestTypeMarkerAnnotationExpr', 'ReadModeMarkerAnnotationExpr', 'TransitionDirectionMarkerAnnotationExpr', 'TransitionTypeMarkerAnnotationExpr', 'BinderThreadMarkerAnnotationExpr', 'ShellMainThreadMarkerAnnotationExpr', 'SilentHeaderMarkerAnnotationExpr', 'DismissalSurfaceMarkerAnnotationExpr', 'DismissalSentimentMarkerAnnotationExpr', 'ResponseResultMarkerAnnotationExpr', 'WriteModeMarkerAnnotationExpr', 'final booleanMethodDeclaration', 'IdResMarkerAnnotationExpr', 'default public booleanMethodDeclaration', 'StartResultMarkerAnnotationExpr', 'StartArgFlagsMarkerAnnotationExpr', 'StopForegroundFlagsMarkerAnnotationExpr', 'UiThreadMarkerAnnotationExpr', 'public doubleMethodDeclaration', 'WakeReasonMarkerAnnotationExpr', 'GoToSleepReasonMarkerAnnotationExpr', 'protected floatMethodDeclaration', 'DurationMillisLongMarkerAnnotationExpr', 'TemplateTypeMarkerAnnotationExpr', 'PinResultTypeMarkerAnnotationExpr', 'native static public booleanMethodDeclaration', 'native static public intMethodDeclaration', 'PresubmitMarkerAnnotationExpr', 'SmallTestMarkerAnnotationExpr', 'abstract intMethodDeclaration', 'abstract booleanMethodDeclaration', 'LifecycleStateMarkerAnnotationExpr', 'AnimatorResMarkerAnnotationExpr', 'TransitMarkerAnnotationExpr', 'TransportStatusMarkerAnnotationExpr', 'MediumTestMarkerAnnotationExpr', 'FormatMarkerAnnotationExpr', 'ResponseCodeMarkerAnnotationExpr', 'SessionModeMarkerAnnotationExpr', 'public final MethodDeclaration', 'WidgetTypeMarkerAnnotationExpr', 'MockMarkerAnnotationExpr', 'public synchronized MethodDeclaration', 'synchronized public intMethodDeclaration', 'UiTemplateTypeMarkerAnnotationExpr', 'CardStateInfoMarkerAnnotationExpr', 'CheckResultMarkerAnnotationExpr', 'final static MethodDeclaration', 'ShortcutTypeMarkerAnnotationExpr', 'AccessibilityFragmentTypeMarkerAnnotationExpr', 'CinematicEffectStatusCodeMarkerAnnotationExpr', 'ImageContentTypeMarkerAnnotationExpr', 'StandbyBucketsMarkerAnnotationExpr', 'ForcedReasonsMarkerAnnotationExpr', 'ProcessStateMarkerAnnotationExpr', 'AppActionMarkerAnnotationExpr', 'AttestationProfileIdMarkerAnnotationExpr', 'ViewModeMarkerAnnotationExpr', 'AssertStmt', 'ServiceStatusMarkerAnnotationExpr', 'WarningTypeMarkerAnnotationExpr', 'synchronized private booleanMethodDeclaration', 'static private byteMethodDeclaration', 'LayoutlibDelegateMarkerAnnotationExpr', 'SearchIndexableMarkerAnnotationExpr', 'private longMethodDeclaration', 'static longMethodDeclaration', 'final protected booleanMethodDeclaration', 'CheckForNullMarkerAnnotationExpr', 'NullableDeclMarkerAnnotationExpr', 'NullableTypeMarkerAnnotationExpr', 'NullAllowedMarkerAnnotationExpr', 'NullUnknownMarkerAnnotationExpr', 'NonnullMarkerAnnotationExpr', 'NonNullDeclMarkerAnnotationExpr', 'NonNullTypeMarkerAnnotationExpr', 'NonNullByDefaultMarkerAnnotationExpr', 'ParametersAreNonnullByDefaultMarkerAnnotationExpr', 'IgnoreMarkerAnnotationExpr', 'StabilityMarkerAnnotationExpr', 'final private MethodDeclaration', 'PreciseCallStatesMarkerAnnotationExpr', 'NrVopsStatusMarkerAnnotationExpr', 'NrEmcStatusMarkerAnnotationExpr', 'ImsStateMarkerAnnotationExpr', 'ImsServiceCapabilityMarkerAnnotationExpr', 'LteVopsStatusMarkerAnnotationExpr', 'LceTypeMarkerAnnotationExpr', 'TransportTypeMarkerAnnotationExpr', 'EventMarkerAnnotationExpr', 'ExternalCallStateMarkerAnnotationExpr', 'ResultCodeMarkerAnnotationExpr', 'ThermalMitigationActionMarkerAnnotationExpr', 'ImsRegistrationTechMarkerAnnotationExpr', 'FeatureTypeMarkerAnnotationExpr', 'PositionMarkerAnnotationExpr', 'AppTypeMarkerAnnotationExpr', 'final public longMethodDeclaration', 'IntRangeMarkerAnnotationExpr', 'public default intMethodDeclaration', 'LayoutResMarkerAnnotationExpr', 'public shortMethodDeclaration', 'public byteMethodDeclaration', 'ThrottlingStatusMarkerAnnotationExpr', 'KeyEventActionMarkerAnnotationExpr', 'PxMarkerAnnotationExpr', 'EffectMarkerAnnotationExpr', 'GwpAsanModeMarkerAnnotationExpr', 'MemtagModeMarkerAnnotationExpr', 'NativeHeapZeroInitializedMarkerAnnotationExpr', 'ContentTypeMarkerAnnotationExpr', 'default intMethodDeclaration', 'default longMethodDeclaration', 'default floatMethodDeclaration', 'default doubleMethodDeclaration', 'NotifyFlagsMarkerAnnotationExpr', 'MotionEventActionMarkerAnnotationExpr', 'CallAudioRouteMarkerAnnotationExpr', 'DeviceConfigKeyMarkerAnnotationExpr', 'EventCategoryMarkerAnnotationExpr', 'KeyEventTypeMarkerAnnotationExpr', 'VariantMarkerAnnotationExpr', 'ViewTypeMarkerAnnotationExpr', 'abstract public floatMethodDeclaration', 'RepeatModeMarkerAnnotationExpr', 'ButtonMarkerAnnotationExpr', 'static floatMethodDeclaration', 'protected abstract MethodDeclaration', 'ProvidesMarkerAnnotationExpr', 'BackgroundMarkerAnnotationExpr', 'JSMethodMarkerAnnotationExpr', 'ReactMethodMarkerAnnotationExpr', 'DoStmt', 'GravityFlagMarkerAnnotationExpr', 'LocalClassDeclarationStmt', 'byteMethodDeclaration', 'DeviceOrientationMarkerAnnotationExpr', 'ColorResMarkerAnnotationExpr', 'screenTypeMarkerAnnotationExpr', 'AutoAccessMarkerAnnotationExpr', 'LightnessMarkerAnnotationExpr', 'CalledByNativeMarkerAnnotationExpr', 'public static MethodDeclaration', 'DimenResMarkerAnnotationExpr', 'native MethodDeclaration', 'AnnotationMemberDeclaration', 'AnimResMarkerAnnotationExpr', 'public final booleanMethodDeclaration', 'synchronized public booleanMethodDeclaration', 'NotThreadSafeMarkerAnnotationExpr', 'ThreadSafeMarkerAnnotationExpr', 'ErrorTypeMarkerAnnotationExpr', 'JavascriptInterfaceMarkerAnnotationExpr', 'ModuleMarkerAnnotationExpr', 'SigninAccessPointMarkerAnnotationExpr', 'SearchEnginePromoTypeMarkerAnnotationExpr', 'ReauthScopeMarkerAnnotationExpr', 'OverrideStateMarkerAnnotationExpr', 'TextSizeTypeMarkerAnnotationExpr', 'DocumentedMarkerAnnotationExpr', 'ResizeModeMarkerAnnotationExpr', 'StreamTypeMarkerAnnotationExpr', 'StereoModeMarkerAnnotationExpr', 'KeepMarkerAnnotationExpr', 'FlashModeMarkerAnnotationExpr', 'RawResMarkerAnnotationExpr', 'SubscribeMarkerAnnotationExpr', 'MenuResMarkerAnnotationExpr', 'final protected intMethodDeclaration', 'synchronized public longMethodDeclaration', 'static synchronized public MethodDeclaration', 'GetterMarkerAnnotationExpr', 'SetterMarkerAnnotationExpr', 'SingletonMarkerAnnotationExpr', 'public abstract MethodDeclaration', 'synchronized booleanMethodDeclaration', 'SafeVarargsMarkerAnnotationExpr', 'synchronized static MethodDeclaration', 'OptionalMarkerAnnotationExpr', 'StatusCodeMarkerAnnotationExpr', 'ActivityScopeMarkerAnnotationExpr', 'LabeledStmt', 'KeycodeMarkerAnnotationExpr', 'BindsMarkerAnnotationExpr', 'synchronized protected MethodDeclaration', 'ColumnMarkerAnnotationExpr', 'DraggableItemStateFlagsMarkerAnnotationExpr', 'static public doubleMethodDeclaration', 'InternalApiMarkerAnnotationExpr', 'JsonCreatorMarkerAnnotationExpr', 'JsonIgnoreMarkerAnnotationExpr', 'JsonPropertyMarkerAnnotationExpr', 'DoNotStripMarkerAnnotationExpr', 'UIManagerTypeMarkerAnnotationExpr', 'ImageEventTypeMarkerAnnotationExpr', 'native protected MethodDeclaration', 'WMSingletonMarkerAnnotationExpr', 'LinearColorMarkerAnnotationExpr', 'EntityMarkerAnnotationExpr', 'EntityInstanceMarkerAnnotationExpr', 'CarProtocolMarkerAnnotationExpr', 'KeepFieldsMarkerAnnotationExpr', 'CarAppApiLevelMarkerAnnotationExpr', 'ExperimentalCarApiMarkerAnnotationExpr', 'CarIconTypeMarkerAnnotationExpr', 'CarColorTypeMarkerAnnotationExpr', 'UnitMarkerAnnotationExpr', 'AlignmentMarkerAnnotationExpr', 'AutoValueMarkerAnnotationExpr', 'VideoRecordErrorMarkerAnnotationExpr', 'DoNotInlineMarkerAnnotationExpr', 'CarZoneRowMarkerAnnotationExpr', 'CarZoneColumnMarkerAnnotationExpr', 'ModeMarkerAnnotationExpr', 'NonParcelFieldMarkerAnnotationExpr', 'ArrayResMarkerAnnotationExpr', 'InputModeMarkerAnnotationExpr', 'ReplaceStrategyMarkerAnnotationExpr', 'EvConnectorTypeMarkerAnnotationExpr', 'FuelTypeMarkerAnnotationExpr', 'HorizontalAlignmentMarkerAnnotationExpr', 'CommandVersionMarkerAnnotationExpr', 'BuilderMarkerAnnotationExpr', 'StyleableResMarkerAnnotationExpr', 'CanIgnoreReturnValueMarkerAnnotationExpr', 'ProtoLayoutExperimentalMarkerAnnotationExpr', 'RatioMarkerAnnotationExpr', 'HvacFanDirectionMarkerAnnotationExpr', 'LongPropertyMarkerAnnotationExpr', 'AccessErrorMarkerAnnotationExpr', 'EnumTypeMarkerAnnotationExpr', 'VarType', 'TabSelectionTypeMarkerAnnotationExpr', 'NativeMethodsMarkerAnnotationExpr', 'native public intMethodDeclaration', 'InitializerMarkerAnnotationExpr', 'RibInteractorMarkerAnnotationExpr', 'native public MethodDeclaration', 'native static public MethodDeclaration', 'DivScopeMarkerAnnotationExpr', 'ValueMarkerAnnotationExpr', 'VideoProjectionFlagsMarkerAnnotationExpr', 'SyntheticMarkerAnnotationExpr', 'TrackTypeMarkerAnnotationExpr', 'final intMethodDeclaration', 'PureMarkerAnnotationExpr', 'LogLevelMarkerAnnotationExpr', 'MonotonicNonNullMarkerAnnotationExpr', 'CapabilitiesMarkerAnnotationExpr', 'VideoOutputModeMarkerAnnotationExpr', 'ColorSpaceMarkerAnnotationExpr', 'ColorRangeMarkerAnnotationExpr', 'ColorTransferMarkerAnnotationExpr', 'CryptoModeMarkerAnnotationExpr', 'RequirementFlagsMarkerAnnotationExpr', 'PcmEncodingMarkerAnnotationExpr', 'TabCreationStateMarkerAnnotationExpr', 'TabHidingTypeMarkerAnnotationExpr', 'final protected longMethodDeclaration', 'SecureModeMarkerAnnotationExpr', 'UnknownNullMarkerAnnotationExpr', 'BufferReplacementModeMarkerAnnotationExpr', 'private byteMethodDeclaration', 'ExperimentalMarkerAnnotationExpr', 'HiddenApiMarkerAnnotationExpr', 'DirtinessStateMarkerAnnotationExpr', 'PropDefaultMarkerAnnotationExpr', 'AdaptiveToolbarButtonVariantMarkerAnnotationExpr', 'StateChangeReasonMarkerAnnotationExpr', 'ModalDialogTypeMarkerAnnotationExpr', 'SlowMarkerAnnotationExpr', 'ServiceMarkerAnnotationExpr', 'IncubatingMarkerAnnotationExpr', 'BetaMarkerAnnotationExpr', 'TaskActionMarkerAnnotationExpr', 'InputMarkerAnnotationExpr', 'NonNullableSetterMarkerAnnotationExpr', 'NonNlsMarkerAnnotationExpr', 'InputFilesMarkerAnnotationExpr', 'ModifierConstantMarkerAnnotationExpr', 'InternalMarkerAnnotationExpr', 'TestOnlyMarkerAnnotationExpr', 'XmlTransientMarkerAnnotationExpr', 'OutputDirectoryMarkerAnnotationExpr', 'InputFileMarkerAnnotationExpr', 'ClassRuleMarkerAnnotationExpr', 'BeforeClassMarkerAnnotationExpr', 'MemoizedMarkerAnnotationExpr', 'CanonicalWebUrlMarkerAnnotationExpr', 'AssistedMarkerAnnotationExpr', 'GerritServerConfigMarkerAnnotationExpr', 'AssistedInjectMarkerAnnotationExpr', 'GerritPersonIdentMarkerAnnotationExpr', 'ParameterMarkerAnnotationExpr', 'MorphiaInternalMarkerAnnotationExpr', 'IdMarkerAnnotationExpr', 'SubstituteMarkerAnnotationExpr', 'AliasMarkerAnnotationExpr', 'ParameterizedTestMarkerAnnotationExpr', 'BeforeEachMarkerAnnotationExpr', 'AfterEachMarkerAnnotationExpr', 'NewFieldMarkerAnnotationExpr', 'TraceMarkerAnnotationExpr', 'FieldNameMarkerAnnotationExpr', 'DataMarkerAnnotationExpr', 'Slf4jMarkerAnnotationExpr', 'ConfigurationMarkerAnnotationExpr', 'BeanMarkerAnnotationExpr', 'RequiredArgsConstructorMarkerAnnotationExpr', 'ToStringMarkerAnnotationExpr', 'ValidMarkerAnnotationExpr', 'ManagedDataMarkerAnnotationExpr', 'ManagedAttributeMarkerAnnotationExpr', 'NoArgsConstructorMarkerAnnotationExpr', 'AllArgsConstructorMarkerAnnotationExpr', 'AutowiredMarkerAnnotationExpr', 'GwtCompatibleMarkerAnnotationExpr', 'ControllerMarkerAnnotationExpr', 'ComponentMarkerAnnotationExpr', 'ExtensionMarkerAnnotationExpr', 'ExportedBeanMarkerAnnotationExpr', 'DataBoundConstructorMarkerAnnotationExpr', 'RequirePOSTMarkerAnnotationExpr', 'QueryParameterMarkerAnnotationExpr', 'PrivateMarkerAnnotationExpr', 'TestExtensionMarkerAnnotationExpr', 'CheckReturnValueMarkerAnnotationExpr', 'default byteMethodDeclaration', 'default shortMethodDeclaration', 'AlphaMarkerAnnotationExpr', 'DataBoundSetterMarkerAnnotationExpr', 'AncestorInPathMarkerAnnotationExpr', 'POSTMarkerAnnotationExpr', 'UtilityClassMarkerAnnotationExpr', 'WhitelistedMarkerAnnotationExpr', 'PostConstructMarkerAnnotationExpr', 'SneakyThrowsMarkerAnnotationExpr', 'synchronized final public MethodDeclaration', 'EqualsAndHashCodeMarkerAnnotationExpr', 'NotBlankMarkerAnnotationExpr', 'PathVariableMarkerAnnotationExpr', 'QueryValueMarkerAnnotationExpr', 'synchronized public doubleMethodDeclaration', 'TransientMarkerAnnotationExpr', 'DefaultMarkerAnnotationExpr', 'RequiredMarkerAnnotationExpr', 'RestControllerMarkerAnnotationExpr', 'NonNullApiMarkerAnnotationExpr', 'NonNullFieldsMarkerAnnotationExpr', 'ParamMarkerAnnotationExpr', 'HeaderMarkerAnnotationExpr', 'RequestParamMarkerAnnotationExpr', 'ValidatedMarkerAnnotationExpr', 'static final public MethodDeclaration', 'NonnegativeMarkerAnnotationExpr', 'JsonpDeserializableMarkerAnnotationExpr', 'EditableMarkerAnnotationExpr', 'NotEmptyMarkerAnnotationExpr', 'BeforeAllMarkerAnnotationExpr', 'AfterAllMarkerAnnotationExpr', 'abstract public doubleMethodDeclaration', 'EvolvingMarkerAnnotationExpr', 'final public doubleMethodDeclaration', 'PositiveOrZeroMarkerAnnotationExpr', 'GwtIncompatibleMarkerAnnotationExpr', 'WeakMarkerAnnotationExpr', 'WeakOuterMarkerAnnotationExpr', 'ViewComponentMarkerAnnotationExpr', 'ForOverrideMarkerAnnotationExpr', 'DerivedMarkerAnnotationExpr', 'CheckMarkerAnnotationExpr', 'AddToRuleKeyMarkerAnnotationExpr', 'BuckStyleValueMarkerAnnotationExpr', 'OnChannelThreadMarkerAnnotationExpr', 'OnClientThreadMarkerAnnotationExpr', 'InitializedMarkerAnnotationExpr', 'UnknownKeyForMarkerAnnotationExpr', 'ProcessElementMarkerAnnotationExpr', 'MacroMarkerAnnotationExpr', 'WithBeanGetterMarkerAnnotationExpr', 'JsonAutoDetectMarkerAnnotationExpr', 'ObjectIdMarkerAnnotationExpr', 'WithSpanMarkerAnnotationExpr', 'ContextMarkerAnnotationExpr', 'GETMarkerAnnotationExpr', 'PositiveMarkerAnnotationExpr', 'AccessesPartialKeyMarkerAnnotationExpr', 'AutoCodecMarkerAnnotationExpr', 'InstantiatorMarkerAnnotationExpr', 'VisibleForSerializationMarkerAnnotationExpr', 'SerializationConstantMarkerAnnotationExpr', 'StarlarkConstructorMarkerAnnotationExpr', 'NamedMarkerAnnotationExpr', 'PublicEvolvingMarkerAnnotationExpr', 'RpcTimeoutMarkerAnnotationExpr', 'BenchmarkMarkerAnnotationExpr', 'NullFromTypeParamMarkerAnnotationExpr', 'UnmodifiableMarkerAnnotationExpr', 'SerialMarkerAnnotationExpr', 'CanRunDuringConflictMarkerAnnotationExpr', 'ActivateMarkerAnnotationExpr', 'ReferenceMarkerAnnotationExpr', 'DeactivateMarkerAnnotationExpr', 'JaxrsResourceMarkerAnnotationExpr', 'JSONRequiredMarkerAnnotationExpr', 'ModifiedMarkerAnnotationExpr', 'ExposeMarkerAnnotationExpr', 'OnWebSocketConnectMarkerAnnotationExpr', 'OnWebSocketCloseMarkerAnnotationExpr', 'OnWebSocketErrorMarkerAnnotationExpr', 'OnWebSocketMessageMarkerAnnotationExpr', 'FullConfigMarkerAnnotationExpr', 'PreDestroyMarkerAnnotationExpr', 'EventHandlerMarkerAnnotationExpr', 'TransactionalMarkerAnnotationExpr', 'NlsMarkerAnnotationExpr', 'ExcludeMarkerAnnotationExpr', 'ShadowMarkerAnnotationExpr', 'DebugDumpMarkerAnnotationExpr', 'WithMarkerAnnotationExpr', 'FinalDefaultMarkerAnnotationExpr', 'ConcurrentMethodMarkerAnnotationExpr', 'Log4j2MarkerAnnotationExpr', 'RequestBodyMarkerAnnotationExpr', 'ResourceMarkerAnnotationExpr', 'NlsSafeMarkerAnnotationExpr', 'DialogMessageMarkerAnnotationExpr', 'DialogTitleMarkerAnnotationExpr', 'StubbedMarkerAnnotationExpr', 'ProgressTitleMarkerAnnotationExpr', 'ActionTextMarkerAnnotationExpr', 'InspectionMessageMarkerAnnotationExpr', 'IntentionNameMarkerAnnotationExpr', 'SafeFieldForPreviewMarkerAnnotationExpr', 'SupportMarkerAnnotationExpr', 'UnlockWindowMarkerAnnotationExpr', 'UnlockScopedMarkerAnnotationExpr', 'NullMarkedMarkerAnnotationExpr', 'JsNonNullMarkerAnnotationExpr', 'KtPropertyMarkerAnnotationExpr', 'native public booleanMethodDeclaration', 'native static public longMethodDeclaration', 'AutoConfigurationMarkerAnnotationExpr', 'JmixPropertyMarkerAnnotationExpr', 'EventListenerMarkerAnnotationExpr', 'ReadOperationMarkerAnnotationExpr', 'SelectorMarkerAnnotationExpr', 'GetExchangeMarkerAnnotationExpr', 'TestValueMarkerAnnotationExpr', 'ParameterizedHttpServerTestMarkerAnnotationExpr', 'PrimaryMarkerAnnotationExpr', 'ConditionalOnMissingBeanMarkerAnnotationExpr', 'SpringIntegrationTestMarkerAnnotationExpr', 'CreatedDateMarkerAnnotationExpr', 'LastModifiedDateMarkerAnnotationExpr', 'RepositoryMarkerAnnotationExpr', 'EnableCachingMarkerAnnotationExpr', 'MemberSupportMarkerAnnotationExpr', 'ProgrammaticMarkerAnnotationExpr', 'VolatileMarkerAnnotationExpr', 'CopyMarkerAnnotationExpr', 'InitMarkerAnnotationExpr']
+7
+nnode =  5471
+nmax =  931
+nterm =  439
+nnum =  5910
+snowflakes = 712
+37
+Train =  22
+Valid/Test =  7
+675
+<__main__.MyClass object at 0x2b706233bd90>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6956, Micro_F1: 0.5682
+Valid - Loss: 0.6910, Micro_F1: 0.6429
+Test - Loss: 0.6956, Micro_F1: 0.4878
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.7521, Micro_F1: 0.6591
+Valid - Loss: 0.6928, Micro_F1: 0.5714
+Test - Loss: 0.7521, Micro_F1: 0.4205
+--------------------Final Result-------------------------
+Test - Micro_F1:0.4541+0.0336
+7
+nnode =  5456
+nmax =  923
+nterm =  513
+nnum =  5969
+snowflakes = 656
+14
+Train =  8
+Valid/Test =  2
+642
+<__main__.MyClass object at 0x2b70625be3a0>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.5503, Micro_F1: 0.6250
+Valid - Loss: 0.6377, Micro_F1: 1.0000
+Test - Loss: 0.5503, Micro_F1: 0.7940
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.2221, Micro_F1: 0.8125
+Valid - Loss: 0.9486, Micro_F1: 0.5000
+Test - Loss: 0.2221, Micro_F1: 0.8664
+--------------------Final Result-------------------------
+Test - Micro_F1:0.8302+0.0362
+7
+nnode =  5359
+nmax =  942
+nterm =  559
+nnum =  5918
+snowflakes = 619
+10
+Train =  6
+Valid/Test =  2
+609
+<__main__.MyClass object at 0x2b7062346310>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.8115, Micro_F1: 0.6667
+Valid - Loss: 0.7893, Micro_F1: 0.7500
+Test - Loss: 0.8115, Micro_F1: 0.6119
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.7894, Micro_F1: 0.6667
+Valid - Loss: 0.8501, Micro_F1: 0.7500
+Test - Loss: 0.7894, Micro_F1: 0.5406
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5763+0.0357
+7
+nnode =  5218
+nmax =  838
+nterm =  513
+nnum =  5731
+snowflakes = 596
+13
+Train =  7
+Valid/Test =  2
+583
+<__main__.MyClass object at 0x2b7057a87160>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.5237, Micro_F1: 0.8571
+Valid - Loss: 0.6379, Micro_F1: 0.7500
+Test - Loss: 0.5237, Micro_F1: 0.7163
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 1.5865, Micro_F1: 0.6429
+Valid - Loss: 0.7085, Micro_F1: 0.7500
+Test - Loss: 1.5865, Micro_F1: 0.3339
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5251+0.1912
+7
+nnode =  5660
+nmax =  937
+nterm =  614
+nnum =  6274
+snowflakes = 669
+17
+Train =  10
+Valid/Test =  3
+652
+<__main__.MyClass object at 0x2b70625be3a0>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.7535, Micro_F1: 0.5000
+Valid - Loss: 0.6173, Micro_F1: 0.8333
+Test - Loss: 0.7535, Micro_F1: 0.3437
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.7045, Micro_F1: 0.5000
+Valid - Loss: 0.6806, Micro_F1: 0.6667
+Test - Loss: 0.7045, Micro_F1: 0.2255
+--------------------Final Result-------------------------
+Test - Micro_F1:0.2846+0.0591
+7
+nnode =  5397
+nmax =  968
+nterm =  531
+nnum =  5928
+snowflakes = 574
+15
+Train =  9
+Valid/Test =  3
+559
+<__main__.MyClass object at 0x2b706065e370>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.7592, Micro_F1: 0.5000
+Valid - Loss: 0.2713, Micro_F1: 1.0000
+Test - Loss: 0.7592, Micro_F1: 0.4000
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6552, Micro_F1: 0.5000
+Valid - Loss: 0.4626, Micro_F1: 1.0000
+Test - Loss: 0.6552, Micro_F1: 0.3018
+--------------------Final Result-------------------------
+Test - Micro_F1:0.3509+0.0491
+7
+nnode =  5231
+nmax =  866
+nterm =  486
+nnum =  5717
+snowflakes = 663
+40
+Train =  24
+Valid/Test =  8
+623
+<__main__.MyClass object at 0x2b70623460a0>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.3090, Micro_F1: 0.7083
+Valid - Loss: 0.6125, Micro_F1: 0.7500
+Test - Loss: 0.3090, Micro_F1: 0.8831
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.2653, Micro_F1: 0.7083
+Valid - Loss: 0.7047, Micro_F1: 0.7500
+Test - Loss: 0.2653, Micro_F1: 0.9082
+--------------------Final Result-------------------------
+Test - Micro_F1:0.8957+0.0125
+7
+nnode =  5886
+nmax =  959
+nterm =  490
+nnum =  6376
+snowflakes = 683
+20
+Train =  12
+Valid/Test =  4
+663
+<__main__.MyClass object at 0x2b70606530d0>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.3788, Micro_F1: 0.8750
+Valid - Loss: 0.4861, Micro_F1: 0.8750
+Test - Loss: 0.3788, Micro_F1: 0.7435
+Traceback (most recent call last):
+  File "gtn_preprocessing.py", line 322, in <module>
+    trainTheModel(args)
+  File "/home/k/ks225/nullproj/GTN_35/fgtn_main.py", line 152, in trainTheModel
+    model = pickle.load(f)
+_pickle.UnpicklingError: pickle data was truncated
+srun: error: node415: task 0: Exited with exit code 1

@@ -1,0 +1,342 @@
+Starting /home/k/ks225/.bash_profile ... standard AFS bash profile
+
+========================
+Home directory : /home/k/ks225 is not in AFS -- skipping quota check
+========================
+
+On host node412 :
+	 17:58:38 up 51 days, 21:59,  0 users,  load average: 1.27, 1.78, 1.83
+
+=== === === Your Kerberos ticket and AFS token status === === ===
+klist: No credentials cache found (filename: /tmp/krb5cc_480898_bnK4fLjfCH)
+Kerberos : 
+AFS      : 
+
+Loading default modules ...
+Create file : "/home/k/ks225/.modules" to customize.
+
+No modules loaded
+/home/k/ks225/annotations/spectral_2hv/data1.json
+648
+['CompilationUnit', 'PackageDeclaration', 'Name', 'ImportDeclaration', 'ClassOrInterfaceDeclaration', 'Modifier', 'SimpleName', 'FieldDeclaration', 'intModifier', 'public Modifier', 'static Modifier', 'final Modifier', 'VariableDeclarator', 'PrimitiveType', 'UnaryExpr', 'IntegerLiteralExpr', 'ClassOrInterfaceType', 'StringLiteralExpr', 'AnnotationDeclaration', 'NormalAnnotationExpr', 'MemberValuePair', 'ArrayInitializerExpr', 'NameExpr', 'private Modifier', 'booleanModifier', 'ConstructorDeclaration', 'Parameter', 'MarkerAnnotationExpr', 'BackTargetTypeMarker', 'BlockStmt', 'ExpressionStmt', 'AssignExpr', 'NonNullMarker', 'MethodCallExpr', 'FieldAccessExpr', 'MethodDeclaration', 'OverrideMarker', 'VoidType', 'ReturnStmt', 'IfStmt', 'BinaryExpr', 'NullLiteralExpr', 'VariableDeclarationExpr', 'ObjectCreationExpr', 'ArrayType', 'ArrayCreationExpr', 'ArrayCreationLevel', 'CharLiteralExpr', 'SwitchStmt', 'SwitchEntry', 'SingleMemberAnnotationExpr', 'ThisExpr', 'SystemApiMarker', 'abstract Modifier', 'DeprecatedMarker', 'ConfigFlagMarker', 'BooleanLiteralExpr', 'ThrowStmt', 'byteModifier', 'shortModifier', 'ForEachStmt', 'UnsupportedAppUsageMarker', 'floatModifier', 'TryStmt', 'ConditionalExpr', 'ExplicitConstructorInvocationStmt', 'CastExpr', 'Vr2dDisplayFlagMarker', 'EnclosedExpr', 'longModifier', 'BreakStmt', 'BlockComment', 'InstanceOfExpr', 'ProfileTypeMarker', 'CallbackExecutorMarker', 'LambdaExpr', 'charModifier', 'ForStmt', 'ClassExpr', 'doubleModifier', 'ArrayAccessExpr', 'WhileStmt', 'SuperExpr', 'AttributionFlagsMarker', 'default Modifier', 'ChangeIdMarker', 'FlagsMarker', 'InputConfigFlagsMarker', 'SynchronizedStmt', 'LineComment', 'TypeParameter', 'WildcardType', 'UserIdIntMarker', 'UnknownType', 'SysUISingletonMarker', 'InjectMarker', 'ContinueStmt', 'synchronized Modifier', 'native Modifier', 'protected Modifier', 'TypeMarker', 'CallSuperMarker', 'NotifyEventTypeMarker', 'InitializerDeclaration', 'ResultMarker', 'volatile Modifier', 'VisibleForTestingMarker', 'LongLiteralExpr', 'TestApiMarker', 'IpcDataCacheModuleMarker', 'WorkerThreadMarker', 'JavadocComment', 'NetworkTypeMarker', 'CurrentTimeMillisLongMarker', 'ColorIntMarker', 'ColorLongMarker', 'DoubleLiteralExpr', 'GameModeMarker', 'UserHandleAwareMarker', 'MethodReferenceExpr', 'TypeExpr', 'RenderModeMarker', 'PermissionTypeMarker', 'MemberMarker', 'AnyThreadMarker', 'InputMethodNavButtonFlagsMarker', 'BreakStrategyMarker', 'HyphenationFrequencyMarker', 'JustificationModeMarker', 'PxMarker', 'FastNativeMarker', 'CriticalNativeMarker', 'OriginEnumMarker', 'PurposeEnumMarker', 'EncryptionPaddingEnumMarker', 'SignaturePaddingEnumMarker', 'DigestEnumMarker', 'BlockModeEnumMarker', 'AuthEnumMarker', 'SecurityLevelEnumMarker', 'MainMarker', 'LetterboxHorizontalReachabilityPositionMarker', 'LetterboxVerticalReachabilityPositionMarker', 'OriginMarker', 'InsetsTypeMarker', 'DispatchModeMarker', 'SecurityPatchStateMarker', 'LevelMarker', 'KeyAlgorithmEnumMarker', 'StateMarker', 'AutofillTypeMarker', 'RotationMarker', 'VibrationIntensityMarker', 'StringResMarker', 'AttrResMarker', 'BytesLongMarker', 'PartitionTypeMarker', 'AppearanceMarker', 'ActionTypeMarker', 'FlagTypeMarker', 'RequestFlagsMarker', 'AnimationTypeMarker', 'transient Modifier', 'UiThreadMarker', 'AssertStmt', 'ActivityTypeMarker', 'AvailabilityMarker', 'RequestTemplateMarker', 'ErrorCodeMarker', 'CAMERA_AUDIO_RESTRICTIONMarker', 'CapabilityStateMarker', 'MainThreadMarker', 'ImmutableMarker', 'SamplingStrategyMarker', 'EnumDeclaration', 'EnumConstantDeclaration', 'KeyguardBouncerScopeMarker', 'LockoutModeMarker', 'DrawableResMarker', 'IconTypeMarker', 'ChangeTypeMarker', 'SettingMarker', 'TransitionOldTypeMarker', 'RemoteViewMarker', 'StyleResMarker', 'RemotableViewMethodMarker', 'RecognitionFlagsMarker', 'ConfigMarker', 'ImplementationMarker', 'DirectMarker', 'StatusMarker', 'RuleMarker', 'BeforeMarker', 'AfterMarker', 'TestMarker', 'ViewportTypeMarker', 'EnrollReasonMarker', 'SensorTypeMarker', 'ElapsedRealtimeLongMarker', 'EmptyStmt', 'StaticMarker', 'WindowingModeMarker', 'PriorityMarker', 'ConnectorMarker', 'PermissionInfoFlagsMarker', 'PermissionWhitelistFlagsMarker', 'ProvidesMarker', 'CentralSurfacesScopeMarker', 'BindsMarker', 'IntoSetMarker', 'ConnectionToSinkTypeMarker', 'QueryFlagsMarker', 'EventTypesFlagMarker', 'CiphersuiteMarker', 'TransitionTypeMarker', 'TranslationFlagMarker', 'ApplyStrategyMarker', 'OrientationMarker', 'RequestTypeMarker', 'EventTypeMarker', 'ReadModeMarker', 'TransitionDirectionMarker', 'DoStmt', 'DocumentedMarker', 'DurationMillisLongMarker', 'SilentHeaderMarker', 'DismissalSurfaceMarker', 'DismissalSentimentMarker', 'ResponseResultMarker', 'DataFormatMarker', 'WriteModeMarker', 'StartResultMarker', 'StartArgFlagsMarker', 'StopForegroundFlagsMarker', 'EventMarker', 'AuthorizationStateMarker', 'ForegroundServiceTypeMarker', 'WakeReasonMarker', 'GoToSleepReasonMarker', 'ResultCodeMarker', 'PresubmitMarker', 'SmallTestMarker', 'BinderThreadMarker', 'TemplateTypeMarker', 'FormatMarker', 'LargeTestMarker', 'UiThreadTestMarker', 'ResponseCodeMarker', 'SessionModeMarker', 'SendRequestMarker', 'SendResultMarker', 'UiTemplateTypeMarker', 'CardStateInfoMarker', 'CheckResultMarker', 'ShortcutTypeMarker', 'AccessibilityFragmentTypeMarker', 'CinematicEffectStatusCodeMarker', 'ImageContentTypeMarker', 'StandbyBucketsMarker', 'ForcedReasonsMarker', 'ProcessStateMarker', 'AppActionMarker', 'AttestationProfileIdMarker', 'ViewModeMarker', 'ServiceStatusMarker', 'WarningTypeMarker', 'LayoutlibDelegateMarker', 'MissingMethodFlagsMarker', '/*package*/\nlongModifier', 'SearchIndexableMarker', 'MockMarker', 'CheckForNullMarker', 'NullableDeclMarker', 'NullableTypeMarker', 'NullAllowedMarker', 'NullUnknownMarker', 'NonnullMarker', 'NotNullMarker', 'NonNullDeclMarker', 'NonNullTypeMarker', 'NonNullByDefaultMarker', 'ParametersAreNonnullByDefaultMarker', 'ArrayResMarker', 'IgnoreMarker', 'StabilityMarker', 'PreciseCallStatesMarker', 'NrVopsStatusMarker', 'NrEmcStatusMarker', 'ImsStateMarker', 'ImsServiceCapabilityMarker', 'TransportTypeMarker', 'ExternalCallStateMarker', 'ImsRegistrationTechMarker', 'FeatureTypeMarker', 'PositionMarker', 'AppTypeMarker', 'IntRangeMarker', 'BiopMessageTypeMarker', 'LayoutResMarker', 'ThrottlingStatusMarker', 'KeyEventActionMarker', 'GwpAsanModeMarker', 'MemtagModeMarker', 'NativeHeapZeroInitializedMarker', 'StagedOperationTypeMarker', 'DistroStatusMarker', 'NotifyFlagsMarker', 'MotionEventActionMarker', 'ExtconDeviceTypeMarker', 'CallAudioRouteMarker', 'DeviceConfigKeyMarker', 'EventCategoryMarker', 'LetterboxBackgroundTypeMarker', 'LetterboxReachabilityPositionMarker', 'VariantMarker', 'ViewTypeMarker', 'FunctionalInterfaceMarker', 'RepeatModeMarker', 'BackgroundMarker', 'DimensionMarker', 'ColorResMarker', 'RawResMarker', 'ReactMethodMarker', 'GravityFlagMarker', 'LocalClassDeclarationStmt', 'AnimResMarker', 'GetterMarker', 'Slf4jMarker', 'SetterMarker', 'IdResMarker', 'screenTypeMarker', 'AutoAccessMarker', 'LightnessMarker', 'CalledByNativeMarker', 'AnnotationMemberDeclaration', 'NotThreadSafeMarker', 'ThreadSafeMarker', 'ErrorTypeMarker', 'JavascriptInterfaceMarker', 'SigninAccessPointMarker', 'ModalDialogTypeMarker', 'SearchEnginePromoTypeMarker', 'ReauthScopeMarker', 'OverrideStateMarker', 'SafeVarargsMarker', 'MediumTestMarker', 'EncodingMarker', 'TextSizeTypeMarker', 'ResizeModeMarker', 'StreamTypeMarker', 'StereoModeMarker', 'KeepMarker', 'BeforeClassMarker', 'FlashModeMarker', 'SubscribeMarker', 'MenuResMarker', 'AnimatorResMarker', 'AutoRestoreMarker', 'SingletonMarker', 'StatusCodeMarker', 'ActivityScopeMarker', 'LabeledStmt', 'KeycodeMarker', 'DraggableItemStateFlagsMarker', 'ScrollDirectionMarker', 'DimenResMarker', 'InternalApiMarker', 'JsonCreatorMarker', 'JsonIgnoreMarker', 'JsonPropertyMarker', 'DoNotStripMarker', 'UIManagerTypeMarker', 'ImageEventTypeMarker', 'ModeMarker', 'WMSingletonMarker', 'ShellMainThreadMarker', 'PropMarker', 'LinearColorMarker', 'EntityMarker', 'EntityInstanceMarker', 'CarProtocolMarker', 'KeepFieldsMarker', 'CarIconTypeMarker', 'ExperimentalCarApiMarker', 'CarColorTypeMarker', 'DoNotInlineMarker', 'AutoValueMarker', 'CarZoneRowMarker', 'CarZoneColumnMarker', 'StyleableResMarker', 'NonParcelFieldMarker', 'InputModeMarker', 'ReplaceStrategyMarker', 'ImageModeMarker', 'EvConnectorTypeMarker', 'FuelTypeMarker', 'NestedScrollTypeMarker', 'HorizontalAlignmentMarker', 'CommandVersionMarker', 'BuilderMarker', 'CanIgnoreReturnValueMarker', 'ProtoLayoutExperimentalMarker', 'SplitFinishBehaviorMarker', 'ExtLayoutDirectionMarker', 'RatioMarker', 'ComplicationTypeMarker', 'SplitPlaceholderFinishBehaviorMarker', 'AppCompatShadowedAttributesMarker', 'LongPropertyMarker', 'StringPropertyMarker', 'IdMarker', 'HvacFanDirectionMarker', 'AccessErrorMarker', 'VarType', 'TabSelectionTypeMarker', 'NativeMethodsMarker', 'InitializerMarker', 'SectionTypeMarker', 'GETMarker', 'UrlMarker', 'BodyMarker', 'ValueMarker', 'VideoProjectionFlagsMarker', 'SyntheticMarker', 'PureMarker', 'LogLevelMarker', 'PlaybackSuppressionReasonMarker', 'MessageTypeMarker', 'MonotonicNonNullMarker', 'TrackTypeMarker', 'CapabilitiesMarker', 'ColorSpaceMarker', 'ColorRangeMarker', 'ColorTransferMarker', 'VolumeFlagsMarker', 'VideoOutputModeMarker', 'RequirementFlagsMarker', 'AudioContentTypeMarker', 'AudioFlagsMarker', 'AudioUsageMarker', 'AudioAllowedCapturePolicyMarker', 'SpatializationBehaviorMarker', 'PcmEncodingMarker', 'TabCreationStateMarker', 'SecureModeMarker', 'TabLaunchTypeMarker', 'BufferReplacementModeMarker', 'BindsOptionalOfMarker', 'OptionalBooleanMarker', 'FontSizeUnitMarker', 'ExperimentalMarker', 'PropDefaultMarker', 'DirtinessStateMarker', 'AdaptiveToolbarButtonVariantMarker', 'StateChangeReasonMarker', 'ExpoMethodMarker', 'HiddenApiMarker', 'SlowMarker', 'ServiceMarker', 'IncubatingMarker', 'BetaMarker', 'TaskActionMarker', 'InputMarker', 'OptionalMarker', 'OutputDirectoryMarker', 'InputFilesMarker', 'NestedMarker', 'NonNlsMarker', 'InternalMarker', 'ModifierConstantMarker', 'TestOnlyMarker', 'XmlTransientMarker', 'InputFileMarker', 'ClassRuleMarker', 'AfterClassMarker', 'ParameterMarker', 'MemoizedMarker', 'AssistedMarker', 'GerritServerConfigMarker', 'SendEmailExecutorMarker', 'GerritPersonIdentMarker', 'AssistedInjectMarker', 'UiFieldMarker', 'MorphiaInternalMarker', 'SubstituteMarker', 'AliasMarker', 'ParameterizedTestMarker', 'BeforeEachMarker', 'AfterEachMarker', 'NewFieldMarker', 'TraceMarker', 'FieldNameMarker', 'DataMarker', 'ComponentMarker', 'RequiredArgsConstructorMarker', 'ToStringMarker', 'XmlElementMarker', 'ColumnMarker', 'ValidMarker', 'ManagedDataMarker', 'ManagedAttributeMarker', 'NoArgsConstructorMarker', 'AllArgsConstructorMarker', 'ControllerMarker', 'AutowiredMarker', 'ExtensionMarker', 'DataBoundConstructorMarker', 'RequirePOSTMarker', 'ExportedBeanMarker', 'DataBoundSetterMarker', 'QueryParameterMarker', 'PrivateMarker', 'TestExtensionMarker', 'CheckReturnValueMarker', 'AncestorInPathMarker', 'POSTMarker', 'UtilityClassMarker', 'WhitelistedMarker', 'PostConstructMarker', 'SneakyThrowsMarker', 'EqualsAndHashCodeMarker', 'TransientMarker', 'DefaultMarker', 'RequiredMarker', 'RestControllerMarker', 'NonNullApiMarker', 'NonNullFieldsMarker', 'ParamMarker', 'HeaderMarker', 'RequestParamMarker', 'ValidatedMarker', 'NonnegativeMarker', 'JsonpDeserializableMarker', 'EditableMarker', 'NotEmptyMarker', 'BeforeAllMarker', 'AfterAllMarker', 'EvolvingMarker', 'GwtCompatibleMarker', 'WeakMarker', 'GwtIncompatibleMarker', 'WeakOuterMarker', 'ViewComponentMarker', 'J2ObjCIncompatibleMarker', '/* static */\nlongModifier', 'ForOverrideMarker', 'DerivedMarker', 'CheckMarker', 'AddToRuleKeyMarker', 'BuckStyleValueMarker', 'OnChannelThreadMarker', 'OnClientThreadMarker', 'UnknownKeyForMarker', 'InitializedMarker', 'ProcessElementMarker', 'ElementMarker', 'WithBeanGetterMarker', 'JsonAutoDetectMarker', 'ObjectIdMarker', 'WithSpanMarker', 'ConfigurationMarker', 'NotBlankMarker', 'ContextMarker', 'TimedMarker', 'DELETEMarker', 'PositiveMarker', 'PositiveOrZeroMarker', 'AlphaMarker', 'AccessesPartialKeyMarker', 'AutoCodecMarker', 'InstantiatorMarker', 'VisibleForSerializationMarker', 'SerializationConstantMarker', 'StarlarkConstructorMarker', 'NamedMarker', 'PublicEvolvingMarker', 'RpcTimeoutMarker', 'BenchmarkMarker', 'NullFromTypeParamMarker', 'UnmodifiableMarker', 'ReferenceMarker', 'SerialMarker', 'ActivateMarker', 'DeactivateMarker', 'JaxrsResourceMarker', 'JSONRequiredMarker', 'WebSocketMarker', 'OnWebSocketCloseMarker', 'OnWebSocketConnectMarker', 'OnWebSocketMessageMarker', 'OnWebSocketErrorMarker', 'ModifiedMarker', 'ExposeMarker', 'PreDestroyMarker', 'EventHandlerMarker', 'NlsSafeMarker', 'NlsMarker', 'ExcludeMarker', 'ShadowMarker', 'TransactionalMarker', 'FinalDefaultMarker', 'ConcurrentMethodMarker', 'OverridingMethodsMustInvokeSuperMarker', 'DialogTitleMarker', 'Log4j2Marker', 'BeanMarker', 'ResourceMarker', 'TooltipMarker', 'DialogMessageMarker', 'ButtonMarker', 'StubbedMarker', 'NotificationTitleMarker', 'ProgressTitleMarker', 'ActionTextMarker', 'InspectionMessageMarker', 'NotificationContentMarker', 'IntentionFamilyNameMarker', 'IntentionNameMarker', 'SafeFieldForPreviewMarker', 'SupportMarker', 'JsNonNullMarker', 'NullMarkedMarker', 'KtPropertyMarker', 'AutoConfigurationMarker', 'JmixPropertyMarker', 'RequestBodyMarker', 'ReadOperationMarker', 'SelectorMarker', 'ParameterizedAdapterTestMarker', 'PathVariableMarker', 'GetExchangeMarker', 'TestValueMarker', 'EnableCachingMarker', 'ParameterizedHttpServerTestMarker', 'PrimaryMarker', 'ConditionalOnMissingBeanMarker', 'ProgrammaticMarker', 'SpringIntegrationTestMarker', 'CreatedDateMarker', 'LastModifiedDateMarker', 'EnableBatchProcessingMarker', 'RepositoryMarker', 'MemberSupportMarker', 'GraphQlExceptionHandlerMarker', 'VolatileMarker', 'CopyMarker', 'InitMarker', 'Other']
+6
+nnode =  4159
+nmax =  777
+nterm =  410
+nnum =  4569
+snowflakes = 602
+36
+Train =  21
+Valid/Test =  7
+566
+<__main__.MyClass object at 0x2b4f7d658490>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6924, Micro_F1: 0.5000
+Valid - Loss: 0.6927, Micro_F1: 0.7143
+Test - Loss: 0.6924, Micro_F1: 0.7326
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6943, Micro_F1: 0.6667
+Valid - Loss: 0.6903, Micro_F1: 0.7857
+Test - Loss: 0.6943, Micro_F1: 0.4487
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5907+0.1419
+6
+nnode =  3759
+nmax =  739
+nterm =  421
+nnum =  4180
+snowflakes = 729
+23
+Train =  13
+Valid/Test =  4
+706
+<__main__.MyClass object at 0x2b4eb023d190>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.7614, Micro_F1: 0.5000
+Valid - Loss: 0.7002, Micro_F1: 0.6250
+Test - Loss: 0.7614, Micro_F1: 0.2072
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 4.5582, Micro_F1: 0.5769
+Valid - Loss: 2.3185, Micro_F1: 0.5000
+Test - Loss: 4.5582, Micro_F1: 0.0086
+--------------------Final Result-------------------------
+Test - Micro_F1:0.1079+0.0993
+6
+nnode =  3621
+nmax =  756
+nterm =  438
+nnum =  4059
+snowflakes = 424
+10
+Train =  6
+Valid/Test =  2
+414
+<__main__.MyClass object at 0x2b4ece37e970>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6004, Micro_F1: 0.5000
+Valid - Loss: 0.7033, Micro_F1: 0.5000
+Test - Loss: 0.6004, Micro_F1: 0.9951
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6675, Micro_F1: 0.5000
+Valid - Loss: 0.6935, Micro_F1: 0.5000
+Test - Loss: 0.6675, Micro_F1: 0.9951
+--------------------Final Result-------------------------
+Test - Micro_F1:0.9951+0.0000
+6
+nnode =  4187
+nmax =  801
+nterm =  462
+nnum =  4649
+snowflakes = 463
+10
+Train =  6
+Valid/Test =  2
+453
+<__main__.MyClass object at 0x2b4ece37e1f0>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6765, Micro_F1: 0.5000
+Valid - Loss: 0.6933, Micro_F1: 0.5000
+Test - Loss: 0.6765, Micro_F1: 0.9955
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6866, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6866, Micro_F1: 0.9955
+--------------------Final Result-------------------------
+Test - Micro_F1:0.9955+0.0000
+6
+nnode =  3949
+nmax =  804
+nterm =  437
+nnum =  4386
+snowflakes = 464
+11
+Train =  6
+Valid/Test =  2
+453
+<__main__.MyClass object at 0x2b4f680dc880>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6957, Micro_F1: 0.5000
+Valid - Loss: 0.6931, Micro_F1: 0.5000
+Test - Loss: 0.6957, Micro_F1: 0.0067
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6859, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6859, Micro_F1: 0.9933
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4933
+6
+nnode =  3782
+nmax =  688
+nterm =  402
+nnum =  4184
+snowflakes = 483
+18
+Train =  10
+Valid/Test =  3
+465
+<__main__.MyClass object at 0x2b4f7d8d6490>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6957, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6957, Micro_F1: 0.0109
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6859, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6859, Micro_F1: 0.9891
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4891
+6
+nnode =  3763
+nmax =  796
+nterm =  402
+nnum =  4165
+snowflakes = 488
+23
+Train =  13
+Valid/Test =  4
+465
+<__main__.MyClass object at 0x2b4f6ff89280>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6957, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6957, Micro_F1: 0.0132
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6859, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6859, Micro_F1: 0.9868
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4868
+6
+nnode =  3880
+nmax =  762
+nterm =  411
+nnum =  4291
+snowflakes = 591
+40
+Train =  24
+Valid/Test =  8
+551
+<__main__.MyClass object at 0x2b4f7daeaf10>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6956, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6956, Micro_F1: 0.0152
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6860, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6860, Micro_F1: 0.9848
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4848
+6
+nnode =  4230
+nmax =  813
+nterm =  397
+nnum =  4627
+snowflakes = 543
+34
+Train =  20
+Valid/Test =  6
+509
+<__main__.MyClass object at 0x2b4f72d6d520>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6956, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6956, Micro_F1: 0.0163
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6860, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6860, Micro_F1: 0.9837
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4837
+6
+nnode =  4156
+nmax =  813
+nterm =  410
+nnum =  4566
+snowflakes = 577
+25
+Train =  15
+Valid/Test =  5
+552
+<__main__.MyClass object at 0x2b4f7b93c040>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6957, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6957, Micro_F1: 0.0093
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6859, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6859, Micro_F1: 0.9907
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4907
+6
+nnode =  4189
+nmax =  804
+nterm =  470
+nnum =  4659
+snowflakes = 501
+10
+Train =  6
+Valid/Test =  2
+491
+<__main__.MyClass object at 0x2b4f680dc880>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6957, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6957, Micro_F1: 0.0041
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6858, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6858, Micro_F1: 0.9959
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4959
+6
+nnode =  4266
+nmax =  811
+nterm =  445
+nnum =  4711
+snowflakes = 412
+20
+Train =  12
+Valid/Test =  4
+392
+<__main__.MyClass object at 0x2b4f7b91bfa0>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6957, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6957, Micro_F1: 0.0105
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6859, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6859, Micro_F1: 0.9895
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4895
+6
+nnode =  3957
+nmax =  822
+nterm =  379
+nnum =  4336
+snowflakes = 478
+21
+Train =  12
+Valid/Test =  4
+457
+<__main__.MyClass object at 0x2b5193e2b730>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6957, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6957, Micro_F1: 0.0112
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6859, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6859, Micro_F1: 0.9888
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4888
+6
+nnode =  3913
+nmax =  763
+nterm =  436
+nnum =  4349
+snowflakes = 387
+8
+Train =  4
+Valid/Test =  1
+379
+<__main__.MyClass object at 0x2b4f7d64cc40>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6957, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6957, Micro_F1: 0.0080
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6859, Micro_F1: 0.5000
+srun: Job step aborted: Waiting up to 62 seconds for job step to finish.
+slurmstepd: error: *** STEP 782920.0 ON node412 CANCELLED AT 2023-09-13T18:19:42 ***
+slurmstepd: error: *** JOB 782920 ON node412 CANCELLED AT 2023-09-13T18:19:42 ***

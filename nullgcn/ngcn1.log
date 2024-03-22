@@ -1,0 +1,3 @@
+/tmp/tmp1l5iuqf1: line 3:  1646 Killed                  python /home/ubuntu/nullgcn/nbatch_comp.py
+
+ERROR conda.cli.main_run:execute(47): `conda run python /home/ubuntu/nullgcn/nbatch_comp.py` failed. (See above for error)

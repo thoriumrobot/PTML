@@ -1,0 +1,2866 @@
+Starting /home/k/ks225/.bash_profile ... standard AFS bash profile
+
+========================
+Home directory : /home/k/ks225 is not in AFS -- skipping quota check
+========================
+
+On host node415 :
+	 23:13:55 up 48 days,  3:14,  0 users,  load average: 1.03, 1.44, 1.42
+
+=== === === Your Kerberos ticket and AFS token status === === ===
+klist: No credentials cache found (filename: /tmp/krb5cc_480898_xbvlWiEk7H)
+Kerberos : 
+AFS      : 
+
+Loading default modules ...
+Create file : "/home/k/ks225/.modules" to customize.
+
+No modules loaded
+/home/k/ks225/annotations/spectral_2hv/data0.json
+702
+['CompilationUnit', 'PackageDeclaration', 'Name', 'ImportDeclaration', 'ClassOrInterfaceDeclaration', 'Modifier', 'SimpleName', 'FieldDeclaration', 'VariableDeclarator', 'ClassOrInterfaceType', 'ConstructorDeclaration', 'Parameter', 'MarkerAnnotationExpr', 'NonNullMarker', 'PrimitiveType', 'BlockStmt', 'IfStmt', 'BinaryExpr', 'NameExpr', 'NullLiteralExpr', 'IntegerLiteralExpr', 'ThrowStmt', 'ObjectCreationExpr', 'StringLiteralExpr', 'ExpressionStmt', 'AssignExpr', 'MethodDeclaration', 'public Modifier', 'VoidType', 'MethodCallExpr', 'ConditionalExpr', 'ThisExpr', 'booleanModifier', 'private Modifier', 'ReturnStmt', 'OverrideMarker', 'UnaryExpr', 'longModifier', 'static Modifier', 'native Modifier', 'AnnotationDeclaration', 'NormalAnnotationExpr', 'MemberValuePair', 'ArrayInitializerExpr', 'BackTargetTypeMarker', 'FieldAccessExpr', 'intModifier', 'VariableDeclarationExpr', 'ArrayType', 'ArrayCreationExpr', 'ArrayCreationLevel', 'CharLiteralExpr', 'SwitchStmt', 'SwitchEntry', 'SingleMemberAnnotationExpr', 'SystemApiMarker', 'abstract Modifier', 'DeprecatedMarker', 'ConfigFlagMarker', 'BooleanLiteralExpr', 'ForEachStmt', 'UnsupportedAppUsageMarker', 'shortModifier', 'TryStmt', 'ExplicitConstructorInvocationStmt', 'CastExpr', 'Vr2dDisplayFlagMarker', 'EnclosedExpr', 'BreakStmt', 'BlockComment', 'InstanceOfExpr', 'ProfileTypeMarker', 'CallbackExecutorMarker', 'LambdaExpr', 'ForStmt', 'ClassExpr', 'ArrayAccessExpr', 'final Modifier', 'WhileStmt', 'SuperExpr', 'charModifier', 'AttributionFlagsMarker', 'default Modifier', 'DoubleLiteralExpr', 'MethodReferenceExpr', 'TypeExpr', 'ChangeIdMarker', 'floatModifier', 'doubleModifier', 'FlagsMarker', 'InputConfigFlagsMarker', 'SynchronizedStmt', 'LineComment', 'ContinueStmt', 'TypeParameter', 'WildcardType', 'UserIdIntMarker', 'UnknownType', 'SysUISingletonMarker', 'InjectMarker', 'synchronized Modifier', 'protected Modifier', 'TypeMarker', 'CallSuperMarker', 'ColorIntMarker', 'ColorLongMarker', 'NotifyEventTypeMarker', 'InitializerDeclaration', 'ResultMarker', 'VisibleForTestingMarker', 'LongLiteralExpr', 'TestApiMarker', 'IpcDataCacheModuleMarker', 'WorkerThreadMarker', 'MessageTypeMarker', 'DisconnectCausesMarker', 'PreciseDisconnectCausesMarker', 'JavadocComment', 'NetworkTypeMarker', 'CurrentTimeMillisLongMarker', 'GameModeMarker', 'UserHandleAwareMarker', 'NotNullMarker', 'RotationMarker', 'DimensionMarker', 'byteModifier', 'RenderModeMarker', 'FontSlantMarker', 'PermissionTypeMarker', 'MemberMarker', 'AnyThreadMarker', 'InputMethodNavButtonFlagsMarker', 'BreakStrategyMarker', 'HyphenationFrequencyMarker', 'JustificationModeMarker', 'PxMarker', 'FastNativeMarker', 'CriticalNativeMarker', 'OriginEnumMarker', 'PurposeEnumMarker', 'EncryptionPaddingEnumMarker', 'SignaturePaddingEnumMarker', 'DigestEnumMarker', 'BlockModeEnumMarker', 'AuthEnumMarker', 'SecurityLevelEnumMarker', 'MainMarker', 'LetterboxHorizontalReachabilityPositionMarker', 'LetterboxVerticalReachabilityPositionMarker', 'OriginMarker', 'InsetsTypeMarker', 'DispatchModeMarker', 'SecurityPatchStateMarker', 'LevelMarker', 'EventTypeMarker', 'KeyAlgorithmEnumMarker', 'BytesLongMarker', 'StateMarker', 'AutofillTypeMarker', 'VibrationIntensityMarker', 'StringResMarker', 'StatusMarker', 'AttrResMarker', 'PartitionTypeMarker', 'AppearanceMarker', 'ActionTypeMarker', 'FlagTypeMarker', 'RequestFlagsMarker', 'MainThreadMarker', 'OperationTypeMarker', 'AnimationTypeMarker', 'UiThreadMarker', 'AssertStmt', 'ActivityTypeMarker', 'AvailabilityMarker', 'RequestTemplateMarker', 'ErrorCodeMarker', 'CAMERA_AUDIO_RESTRICTIONMarker', 'CapabilityStateMarker', 'ImmutableMarker', 'SamplingStrategyMarker', 'WindowingModeMarker', 'EnumDeclaration', 'EnumConstantDeclaration', 'KeyguardBouncerScopeMarker', 'LockoutModeMarker', 'StaticMarker', 'DrawableResMarker', 'IconTypeMarker', 'ChangeTypeMarker', 'SettingMarker', 'TransitionOldTypeMarker', 'RemoteViewMarker', 'StyleResMarker', 'RemotableViewMethodMarker', 'RecognitionFlagsMarker', 'ConfigMarker', 'ImplementationMarker', 'DirectMarker', 'OrientationMarker', 'RuleMarker', 'BeforeMarker', 'AfterMarker', 'TestMarker', 'ViewportTypeMarker', 'EnrollReasonMarker', 'SensorTypeMarker', 'ElapsedRealtimeLongMarker', 'EmptyStmt', 'ErrorMarker', 'PriorityMarker', 'ConnectorMarker', 'PermissionInfoFlagsMarker', 'PermissionWhitelistFlagsMarker', 'ProvidesMarker', 'CentralSurfacesScopeMarker', 'BindsMarker', 'IntoSetMarker', 'RecognitionFailureCodeMarker', 'ConnectionToSinkTypeMarker', 'QueryFlagsMarker', 'EventTypesFlagMarker', 'CiphersuiteMarker', 'TransitionTypeMarker', 'TranslationFlagMarker', 'FunctionalInterfaceMarker', 'ApplyStrategyMarker', 'PermissionResultMarker', 'RequestTypeMarker', 'ReadModeMarker', 'TransitionDirectionMarker', 'DoStmt', 'DocumentedMarker', 'DurationMillisLongMarker', 'BinderThreadMarker', 'ShellMainThreadMarker', 'SilentHeaderMarker', 'DismissalSurfaceMarker', 'DismissalSentimentMarker', 'ResponseResultMarker', 'DataFormatMarker', 'WriteModeMarker', 'IdResMarker', 'StartResultMarker', 'StartArgFlagsMarker', 'StopForegroundFlagsMarker', 'EventMarker', 'AuthorizationStateMarker', 'ForegroundServiceTypeMarker', 'WakeReasonMarker', 'GoToSleepReasonMarker', 'ResultCodeMarker', 'TemplateTypeMarker', 'PinResultTypeMarker', 'PresubmitMarker', 'SmallTestMarker', 'LifecycleStateMarker', 'AnimatorResMarker', 'TransitMarker', 'TransportStatusMarker', 'MediumTestMarker', 'FormatMarker', 'LargeTestMarker', 'UiThreadTestMarker', 'ResponseCodeMarker', 'SessionModeMarker', 'WidgetTypeMarker', 'SendRequestMarker', 'SendResultMarker', 'MockMarker', 'UiTemplateTypeMarker', 'CardStateInfoMarker', 'CheckResultMarker', 'ShortcutTypeMarker', 'AccessibilityFragmentTypeMarker', 'CinematicEffectStatusCodeMarker', 'ImageContentTypeMarker', 'StandbyBucketsMarker', 'ForcedReasonsMarker', 'ProcessStateMarker', 'AppActionMarker', 'AttestationProfileIdMarker', 'ViewModeMarker', 'ServiceStatusMarker', 'WarningTypeMarker', 'LayoutlibDelegateMarker', '/*package*/\nbooleanModifier', 'MissingMethodFlagsMarker', '/*package*/\nlongModifier', 'SearchIndexableMarker', 'CheckForNullMarker', 'NullableDeclMarker', 'NullableTypeMarker', 'NullAllowedMarker', 'NullUnknownMarker', 'NonnullMarker', 'NonNullDeclMarker', 'NonNullTypeMarker', 'NonNullByDefaultMarker', 'ParametersAreNonnullByDefaultMarker', 'ArrayResMarker', 'IgnoreMarker', 'StabilityMarker', 'PreciseCallStatesMarker', 'NrVopsStatusMarker', 'NrEmcStatusMarker', 'ImsStateMarker', 'ImsServiceCapabilityMarker', 'LteVopsStatusMarker', 'LceTypeMarker', 'TransportTypeMarker', 'ExternalCallStateMarker', 'ThermalMitigationActionMarker', 'ImsRegistrationTechMarker', 'FeatureTypeMarker', 'PositionMarker', 'AppTypeMarker', 'IntRangeMarker', 'BiopMessageTypeMarker', 'LayoutResMarker', 'ThrottlingStatusMarker', 'KeyEventActionMarker', 'EffectMarker', 'GwpAsanModeMarker', 'MemtagModeMarker', 'NativeHeapZeroInitializedMarker', 'StagedOperationTypeMarker', 'DistroStatusMarker', 'ContentTypeMarker', 'InternalInsetsTypeMarker', 'NotifyFlagsMarker', 'MotionEventActionMarker', 'ExtconDeviceTypeMarker', 'CallAudioRouteMarker', 'DeviceConfigKeyMarker', 'EventCategoryMarker', 'KeyEventTypeMarker', 'LetterboxBackgroundTypeMarker', 'LetterboxReachabilityPositionMarker', 'VariantMarker', 'ViewTypeMarker', 'RepeatModeMarker', 'ButtonMarker', 'BackgroundMarker', 'ColorResMarker', 'RawResMarker', 'JSMethodMarker', 'ReactMethodMarker', 'GravityFlagMarker', 'LocalClassDeclarationStmt', 'AnimResMarker', 'DeviceOrientationMarker', 'GetterMarker', 'Slf4jMarker', 'SetterMarker', 'screenTypeMarker', 'AutoAccessMarker', 'LightnessMarker', 'CalledByNativeMarker', 'DimenResMarker', 'AnnotationMemberDeclaration', 'NotThreadSafeMarker', 'ThreadSafeMarker', 'ErrorTypeMarker', 'JavascriptInterfaceMarker', 'ModuleMarker', 'SigninAccessPointMarker', 'ModalDialogTypeMarker', 'SearchEnginePromoTypeMarker', 'ReauthScopeMarker', 'OverrideStateMarker', 'SafeVarargsMarker', 'EncodingMarker', 'TextSizeTypeMarker', 'FormatSupportMarker', 'ResizeModeMarker', 'StreamTypeMarker', 'StereoModeMarker', 'KeepMarker', 'BeforeClassMarker', 'FlashModeMarker', 'SubscribeMarker', 'MenuResMarker', 'AutoRestoreMarker', 'SingletonMarker', 'OptionalMarker', 'StatusCodeMarker', 'ActivityScopeMarker', 'LabeledStmt', 'KeycodeMarker', 'ColumnMarker', 'DraggableItemStateFlagsMarker', 'ScrollDirectionMarker', 'InternalApiMarker', 'JsonCreatorMarker', 'JsonIgnoreMarker', 'JsonPropertyMarker', 'DoNotStripMarker', 'UIManagerTypeMarker', 'ImageEventTypeMarker', 'ModeMarker', 'WMSingletonMarker', 'PropMarker', 'LinearColorMarker', 'EntityMarker', 'EntityInstanceMarker', 'CarProtocolMarker', 'KeepFieldsMarker', 'CarAppApiLevelMarker', 'ExperimentalCarApiMarker', 'CarIconTypeMarker', 'CarColorTypeMarker', 'UnitMarker', 'AlignmentMarker', 'DoNotInlineMarker', 'AutoValueMarker', 'VideoRecordErrorMarker', 'CarZoneRowMarker', 'CarZoneColumnMarker', 'TargetsMarker', 'StyleableResMarker', 'NonParcelFieldMarker', 'InputModeMarker', 'ReplaceStrategyMarker', 'ImageModeMarker', 'EvConnectorTypeMarker', 'FuelTypeMarker', 'NestedScrollTypeMarker', 'VersionedParcelizeMarker', 'HorizontalAlignmentMarker', 'CommandVersionMarker', 'BuilderMarker', 'CanIgnoreReturnValueMarker', 'ProtoLayoutExperimentalMarker', 'SplitFinishBehaviorMarker', 'ExtLayoutDirectionMarker', 'RatioMarker', 'ComplicationTypeMarker', 'SplitPlaceholderFinishBehaviorMarker', 'AppCompatShadowedAttributesMarker', 'LongPropertyMarker', 'StringPropertyMarker', 'IdMarker', 'HvacFanDirectionMarker', 'AccessErrorMarker', 'EnumTypeMarker', 'VarType', 'TabSelectionTypeMarker', 'NativeMethodsMarker', 'InitializerMarker', 'RibInteractorMarker', 'SectionTypeMarker', 'DivScopeMarker', 'GETMarker', 'UrlMarker', 'BodyMarker', 'ValueMarker', 'VideoProjectionFlagsMarker', 'SyntheticMarker', 'TrackTypeMarker', 'PureMarker', 'LogLevelMarker', 'PlaybackSuppressionReasonMarker', 'MonotonicNonNullMarker', 'CapabilitiesMarker', 'ColorSpaceMarker', 'ColorRangeMarker', 'ColorTransferMarker', 'VolumeFlagsMarker', 'VideoOutputModeMarker', 'CryptoModeMarker', 'RequirementFlagsMarker', 'AudioContentTypeMarker', 'AudioFlagsMarker', 'AudioUsageMarker', 'AudioAllowedCapturePolicyMarker', 'SpatializationBehaviorMarker', 'PcmEncodingMarker', 'TabCreationStateMarker', 'TabHidingTypeMarker', 'SecureModeMarker', 'UnknownNullMarker', 'TabLaunchTypeMarker', 'SampleDataPartMarker', 'BufferFlagsMarker', 'BufferReplacementModeMarker', 'BindsOptionalOfMarker', 'OptionalBooleanMarker', 'FontSizeUnitMarker', 'ExperimentalMarker', 'HiddenApiMarker', 'PropDefaultMarker', 'DirtinessStateMarker', 'BrandedColorSchemeMarker', 'AdaptiveToolbarButtonVariantMarker', 'StateChangeReasonMarker', 'ExpoMethodMarker', 'SlowMarker', 'ServiceMarker', 'IncubatingMarker', 'BetaMarker', 'TaskActionMarker', 'InputMarker', 'NonNullableSetterMarker', 'OutputDirectoryMarker', 'InputFilesMarker', 'NestedMarker', 'NonNlsMarker', 'InternalMarker', 'OutputFileMarker', 'ModifierConstantMarker', 'TestOnlyMarker', 'XmlTransientMarker', 'InputFileMarker', 'ClassRuleMarker', 'AfterClassMarker', 'ParameterMarker', 'MemoizedMarker', 'CanonicalWebUrlMarker', 'AssistedMarker', 'GerritServerConfigMarker', 'SendEmailExecutorMarker', 'AssistedInjectMarker', 'GerritPersonIdentMarker', 'UiFieldMarker', 'MorphiaInternalMarker', 'SubstituteMarker', 'AliasMarker', 'ParameterizedTestMarker', 'BeforeEachMarker', 'AfterEachMarker', 'NewFieldMarker', 'TraceMarker', 'FieldNameMarker', 'DataMarker', 'ConfigurationMarker', 'BeanMarker', 'ComponentMarker', 'RequiredArgsConstructorMarker', 'ToStringMarker', 'XmlElementMarker', 'ValidMarker', 'ManagedDataMarker', 'ManagedAttributeMarker', 'NoArgsConstructorMarker', 'AllArgsConstructorMarker', 'AutowiredMarker', 'GwtCompatibleMarker', 'ControllerMarker', 'ExtensionMarker', 'ExportedBeanMarker', 'DataBoundConstructorMarker', 'RequirePOSTMarker', 'DataBoundSetterMarker', 'QueryParameterMarker', 'PrivateMarker', 'TestExtensionMarker', 'CheckReturnValueMarker', 'AlphaMarker', 'AncestorInPathMarker', 'POSTMarker', 'UtilityClassMarker', 'WhitelistedMarker', 'PostConstructMarker', 'SneakyThrowsMarker', 'EqualsAndHashCodeMarker', 'NotBlankMarker', 'PathVariableMarker', 'QueryValueMarker', 'TransientMarker', 'DefaultMarker', 'RequiredMarker', 'RestControllerMarker', 'NonNullApiMarker', 'NonNullFieldsMarker', 'ParamMarker', 'HeaderMarker', 'RequestParamMarker', 'ValidatedMarker', 'NonnegativeMarker', 'JsonpDeserializableMarker', 'EditableMarker', 'NotEmptyMarker', 'BeforeAllMarker', 'AfterAllMarker', 'EvolvingMarker', 'WeakMarker', 'WithMarker', 'PositiveOrZeroMarker', 'GwtIncompatibleMarker', 'WeakOuterMarker', 'ViewComponentMarker', 'J2ObjCIncompatibleMarker', '/* static */\nlongModifier', 'ForOverrideMarker', 'DerivedMarker', 'CheckMarker', 'AddToRuleKeyMarker', 'BuckStyleValueMarker', 'ArgumentMarker', 'OnChannelThreadMarker', 'OnClientThreadMarker', 'InitializedMarker', 'UnknownKeyForMarker', 'ProcessElementMarker', 'ElementMarker', 'MacroMarker', 'WithBeanGetterMarker', 'JsonAutoDetectMarker', 'ObjectIdMarker', 'WithSpanMarker', 'JsonValueMarker', 'ContextMarker', 'TimedMarker', 'DELETEMarker', 'PositiveMarker', 'AccessesPartialKeyMarker', 'AutoCodecMarker', 'InstantiatorMarker', 'VisibleForSerializationMarker', 'SerializationConstantMarker', 'StarlarkConstructorMarker', 'NamedMarker', 'PublicEvolvingMarker', 'RpcTimeoutMarker', 'BenchmarkMarker', 'NullFromTypeParamMarker', 'UnmodifiableMarker', 'ReferenceMarker', 'SerialMarker', 'CanRunDuringConflictMarker', 'ActivateMarker', 'DeactivateMarker', 'JaxrsResourceMarker', 'JSONRequiredMarker', 'WebSocketMarker', 'OnWebSocketCloseMarker', 'OnWebSocketConnectMarker', 'OnWebSocketMessageMarker', 'OnWebSocketErrorMarker', 'ModifiedMarker', 'ExposeMarker', 'FullConfigMarker', 'PreDestroyMarker', 'EventHandlerMarker', 'NlsSafeMarker', 'TransactionalMarker', 'NlsMarker', 'ExcludeMarker', 'ShadowMarker', 'DebugDumpMarker', 'IfNotParsedMarker', 'FinalDefaultMarker', 'ConcurrentMethodMarker', 'OverridingMethodsMustInvokeSuperMarker', 'DialogTitleMarker', 'Log4j2Marker', 'RequestBodyMarker', 'ResourceMarker', 'TooltipMarker', 'DialogMessageMarker', 'StubbedMarker', 'NotificationTitleMarker', 'ProgressTitleMarker', 'ActionTextMarker', 'InspectionMessageMarker', 'NotificationContentMarker', 'IntentionFamilyNameMarker', 'IntentionNameMarker', 'SafeFieldForPreviewMarker', 'GrModifierConstantMarker', 'SupportMarker', 'UnlockWindowMarker', 'UnlockScopedMarker', 'NullMarkedMarker', 'JsNonNullMarker', 'KtPropertyMarker', 'AutoConfigurationMarker', 'JmixPropertyMarker', 'EventListenerMarker', 'ResponseBodyMarker', 'ReadOperationMarker', 'SelectorMarker', 'ParameterizedAdapterTestMarker', 'GetExchangeMarker', 'TestValueMarker', 'EnableCachingMarker', 'ParameterizedHttpServerTestMarker', 'PrimaryMarker', 'ConditionalOnMissingBeanMarker', 'ProgrammaticMarker', 'EnableBatchProcessingMarker', 'SpringIntegrationTestMarker', 'CreatedDateMarker', 'LastModifiedDateMarker', 'RepositoryMarker', 'MemberSupportMarker', 'GraphQlExceptionHandlerMarker', 'VolatileMarker', 'CopyMarker', 'InitMarker', 'Other']
+6
+nnode =  3804
+nmax =  777
+nterm =  377
+nnum =  4181
+snowflakes = 543
+22
+Train =  13
+Valid/Test =  4
+521
+<__main__.MyClass object at 0x2b02169ee0a0>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6966, Micro_F1: 0.6923
+Valid - Loss: 0.6941, Micro_F1: 0.5000
+Test - Loss: 0.6966, Micro_F1: 0.2515
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6919, Micro_F1: 0.6154
+Valid - Loss: 0.6953, Micro_F1: 0.5000
+Test - Loss: 0.6919, Micro_F1: 0.5069
+--------------------Final Result-------------------------
+Test - Micro_F1:0.3792+0.1277
+6
+nnode =  3291
+nmax =  763
+nterm =  348
+nnum =  3639
+snowflakes = 598
+37
+Train =  22
+Valid/Test =  7
+561
+<__main__.MyClass object at 0x2b01495db190>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6904, Micro_F1: 0.6591
+Valid - Loss: 0.6738, Micro_F1: 0.7857
+Test - Loss: 0.6904, Micro_F1: 0.5741
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.5738, Micro_F1: 0.7500
+Valid - Loss: 0.5815, Micro_F1: 0.8571
+Test - Loss: 0.5738, Micro_F1: 0.6981
+--------------------Final Result-------------------------
+Test - Micro_F1:0.6361+0.0620
+6
+nnode =  3132
+nmax =  739
+nterm =  358
+nnum =  3490
+snowflakes = 400
+12
+Train =  7
+Valid/Test =  2
+388
+<__main__.MyClass object at 0x2b0216b61640>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.0452, Micro_F1: 0.7143
+Valid - Loss: 1.9572, Micro_F1: 0.5000
+Test - Loss: 0.0452, Micro_F1: 0.9921
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6337, Micro_F1: 0.5000
+Valid - Loss: 0.6335, Micro_F1: 1.0000
+Test - Loss: 0.6337, Micro_F1: 0.6335
+--------------------Final Result-------------------------
+Test - Micro_F1:0.8128+0.1793
+6
+nnode =  3443
+nmax =  756
+nterm =  419
+nnum =  3862
+snowflakes = 574
+8
+Train =  4
+Valid/Test =  1
+566
+<__main__.MyClass object at 0x2b0201478850>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.1716, Micro_F1: 0.8750
+Valid - Loss: 0.8864, Micro_F1: 0.5000
+Test - Loss: 0.1716, Micro_F1: 0.9947
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 1.7551, Micro_F1: 0.5000
+Valid - Loss: 1.0571, Micro_F1: 0.5000
+Test - Loss: 1.7551, Micro_F1: 0.0053
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4947
+6
+nnode =  3197
+nmax =  633
+nterm =  321
+nnum =  3518
+snowflakes = 372
+14
+Train =  8
+Valid/Test =  2
+358
+<__main__.MyClass object at 0x2b020c1052b0>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.7018, Micro_F1: 0.5000
+Valid - Loss: 0.6835, Micro_F1: 1.0000
+Test - Loss: 0.7018, Micro_F1: 0.1051
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6840, Micro_F1: 0.6250
+Valid - Loss: 0.6560, Micro_F1: 1.0000
+Test - Loss: 0.6840, Micro_F1: 0.5795
+--------------------Final Result-------------------------
+Test - Micro_F1:0.3423+0.2372
+6
+nnode =  3483
+nmax =  701
+nterm =  434
+nnum =  3917
+snowflakes = 407
+9
+Train =  5
+Valid/Test =  1
+398
+<__main__.MyClass object at 0x2b02169dc1f0>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.7309, Micro_F1: 0.7000
+Valid - Loss: 0.6708, Micro_F1: 0.5000
+Test - Loss: 0.7309, Micro_F1: 0.3241
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.4231, Micro_F1: 0.7000
+Valid - Loss: 0.7586, Micro_F1: 0.5000
+Test - Loss: 0.4231, Micro_F1: 0.9924
+--------------------Final Result-------------------------
+Test - Micro_F1:0.6582+0.3342
+6
+nnode =  3024
+nmax =  722
+nterm =  307
+nnum =  3331
+snowflakes = 408
+17
+Train =  10
+Valid/Test =  3
+391
+<__main__.MyClass object at 0x2b020c0ff490>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.8960, Micro_F1: 0.5000
+Valid - Loss: 0.7050, Micro_F1: 0.5000
+Test - Loss: 0.8960, Micro_F1: 0.0105
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6787, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6787, Micro_F1: 0.9895
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4895
+6
+nnode =  3069
+nmax =  719
+nterm =  332
+nnum =  3401
+snowflakes = 396
+13
+Train =  7
+Valid/Test =  2
+383
+<__main__.MyClass object at 0x2b0214ccb5e0>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6942, Micro_F1: 0.5000
+Valid - Loss: 0.6920, Micro_F1: 0.7500
+Test - Loss: 0.6942, Micro_F1: 0.5317
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.7046, Micro_F1: 0.7143
+Valid - Loss: 0.6975, Micro_F1: 0.7500
+Test - Loss: 0.7046, Micro_F1: 0.4735
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5026+0.0291
+6
+nnode =  3036
+nmax =  736
+nterm =  292
+nnum =  3328
+snowflakes = 326
+7
+Train =  4
+Valid/Test =  1
+319
+<__main__.MyClass object at 0x2b02092e2100>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6366, Micro_F1: 0.6250
+Valid - Loss: 0.6958, Micro_F1: 0.5000
+Test - Loss: 0.6366, Micro_F1: 0.9937
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6990, Micro_F1: 0.5000
+Valid - Loss: 0.6704, Micro_F1: 1.0000
+Test - Loss: 0.6990, Micro_F1: 0.5063
+--------------------Final Result-------------------------
+Test - Micro_F1:0.7500+0.2437
+6
+nnode =  3698
+nmax =  688
+nterm =  401
+nnum =  4099
+snowflakes = 470
+18
+Train =  10
+Valid/Test =  3
+452
+<__main__.MyClass object at 0x2b02092e2040>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 1.4614, Micro_F1: 0.8000
+Valid - Loss: 0.6481, Micro_F1: 0.5000
+Test - Loss: 1.4614, Micro_F1: 0.0113
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.5199, Micro_F1: 0.5000
+Valid - Loss: 0.7117, Micro_F1: 0.5000
+Test - Loss: 0.5199, Micro_F1: 0.9887
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4887
+6
+nnode =  2997
+nmax =  541
+nterm =  314
+nnum =  3311
+snowflakes = 391
+21
+Train =  12
+Valid/Test =  4
+370
+<__main__.MyClass object at 0x2b016371f1f0>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6261, Micro_F1: 0.5000
+Valid - Loss: 0.6958, Micro_F1: 0.5000
+Test - Loss: 0.6261, Micro_F1: 0.9861
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6339, Micro_F1: 0.5000
+Valid - Loss: 0.6951, Micro_F1: 0.5000
+Test - Loss: 0.6339, Micro_F1: 0.9861
+--------------------Final Result-------------------------
+Test - Micro_F1:0.9861+0.0000
+6
+nnode =  3455
+nmax =  762
+nterm =  414
+nnum =  3869
+snowflakes = 527
+25
+Train =  15
+Valid/Test =  5
+502
+<__main__.MyClass object at 0x2b0477471dc0>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6432, Micro_F1: 0.5000
+Valid - Loss: 0.6945, Micro_F1: 0.5000
+Test - Loss: 0.6432, Micro_F1: 0.9897
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6522, Micro_F1: 0.5000
+Valid - Loss: 0.6940, Micro_F1: 0.5000
+Test - Loss: 0.6522, Micro_F1: 0.9897
+--------------------Final Result-------------------------
+Test - Micro_F1:0.9897+0.0000
+6
+nnode =  3247
+nmax =  706
+nterm =  375
+nnum =  3622
+snowflakes = 482
+41
+Train =  24
+Valid/Test =  8
+441
+<__main__.MyClass object at 0x2b04774718e0>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6623, Micro_F1: 0.5000
+Valid - Loss: 0.6937, Micro_F1: 0.5000
+Test - Loss: 0.6623, Micro_F1: 0.9785
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6712, Micro_F1: 0.5000
+Valid - Loss: 0.6934, Micro_F1: 0.5000
+Test - Loss: 0.6712, Micro_F1: 0.9785
+--------------------Final Result-------------------------
+Test - Micro_F1:0.9785+0.0000
+6
+nnode =  3498
+nmax =  704
+nterm =  339
+nnum =  3837
+snowflakes = 434
+40
+Train =  24
+Valid/Test =  8
+394
+<__main__.MyClass object at 0x2b04777672e0>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6807, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6807, Micro_F1: 0.9784
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6900, Micro_F1: 0.5000
+Valid - Loss: 0.6931, Micro_F1: 0.5000
+Test - Loss: 0.6900, Micro_F1: 0.9784
+--------------------Final Result-------------------------
+Test - Micro_F1:0.9784+0.0000
+6
+nnode =  3821
+nmax =  771
+nterm =  405
+nnum =  4226
+snowflakes = 525
+26
+Train =  15
+Valid/Test =  5
+499
+<__main__.MyClass object at 0x2b047786b100>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0124
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6899, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6899, Micro_F1: 0.9876
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4876
+6
+nnode =  3831
+nmax =  711
+nterm =  423
+nnum =  4254
+snowflakes = 472
+9
+Train =  5
+Valid/Test =  1
+463
+<__main__.MyClass object at 0x2b047786b370>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0065
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6898, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6898, Micro_F1: 0.9935
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4935
+6
+nnode =  4015
+nmax =  783
+nterm =  452
+nnum =  4467
+snowflakes = 389
+16
+Train =  9
+Valid/Test =  3
+373
+<__main__.MyClass object at 0x2b0214cb6c40>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0110
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6899, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6899, Micro_F1: 0.9890
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4890
+6
+nnode =  3239
+nmax =  710
+nterm =  340
+nnum =  3579
+snowflakes = 382
+23
+Train =  13
+Valid/Test =  4
+359
+<__main__.MyClass object at 0x2b0216e85d90>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6996, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6996, Micro_F1: 0.0172
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6899, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6899, Micro_F1: 0.9828
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4828
+6
+nnode =  3063
+nmax =  577
+nterm =  370
+nnum =  3433
+snowflakes = 393
+12
+Train =  7
+Valid/Test =  2
+381
+<__main__.MyClass object at 0x2b016371f1f0>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0080
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6898, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6898, Micro_F1: 0.9920
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4920
+6
+nnode =  3954
+nmax =  763
+nterm =  405
+nnum =  4359
+snowflakes = 453
+25
+Train =  15
+Valid/Test =  5
+428
+<__main__.MyClass object at 0x2b0474999c70>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0121
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6899, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6899, Micro_F1: 0.9879
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4879
+6
+nnode =  3094
+nmax =  705
+nterm =  363
+nnum =  3457
+snowflakes = 459
+13
+Train =  7
+Valid/Test =  2
+446
+<__main__.MyClass object at 0x2b04749993a0>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0091
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6899, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6899, Micro_F1: 0.9909
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4909
+6
+nnode =  3359
+nmax =  744
+nterm =  309
+nnum =  3668
+snowflakes = 396
+18
+Train =  10
+Valid/Test =  3
+378
+<__main__.MyClass object at 0x2b0477877040>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6996, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6996, Micro_F1: 0.0135
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6899, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6899, Micro_F1: 0.9865
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4865
+6
+nnode =  3317
+nmax =  629
+nterm =  314
+nnum =  3631
+snowflakes = 385
+19
+Train =  11
+Valid/Test =  3
+366
+<__main__.MyClass object at 0x2b04774718e0>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6996, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6996, Micro_F1: 0.0140
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6899, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6899, Micro_F1: 0.9860
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4860
+6
+nnode =  3770
+nmax =  767
+nterm =  435
+nnum =  4205
+snowflakes = 457
+13
+Train =  7
+Valid/Test =  2
+444
+<__main__.MyClass object at 0x2b0214ccb5e0>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0091
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6899, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6899, Micro_F1: 0.9909
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4909
+6
+nnode =  3802
+nmax =  745
+nterm =  392
+nnum =  4194
+snowflakes = 504
+21
+Train =  12
+Valid/Test =  4
+483
+<__main__.MyClass object at 0x2b047749ea00>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0106
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6899, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6899, Micro_F1: 0.9894
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4894
+6
+nnode =  3611
+nmax =  777
+nterm =  389
+nnum =  4000
+snowflakes = 433
+17
+Train =  10
+Valid/Test =  3
+416
+<__main__.MyClass object at 0x2b0474960f40>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0098
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6899, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6899, Micro_F1: 0.9902
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4902
+6
+nnode =  3426
+nmax =  728
+nterm =  335
+nnum =  3761
+snowflakes = 423
+17
+Train =  10
+Valid/Test =  3
+406
+<__main__.MyClass object at 0x2b02169ee0a0>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0101
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6899, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6899, Micro_F1: 0.9899
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4899
+6
+nnode =  2821
+nmax =  591
+nterm =  263
+nnum =  3084
+snowflakes = 386
+13
+Train =  7
+Valid/Test =  2
+373
+<__main__.MyClass object at 0x2b047773dfa0>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0109
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6899, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6899, Micro_F1: 0.9891
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4891
+6
+nnode =  3289
+nmax =  776
+nterm =  468
+nnum =  3757
+snowflakes = 422
+11
+Train =  6
+Valid/Test =  2
+411
+<__main__.MyClass object at 0x2b0477758dc0>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0074
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6898, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6898, Micro_F1: 0.9926
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4926
+6
+nnode =  3442
+nmax =  758
+nterm =  315
+nnum =  3757
+snowflakes = 440
+23
+Train =  13
+Valid/Test =  4
+417
+<__main__.MyClass object at 0x2b0477877040>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6996, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6996, Micro_F1: 0.0148
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6899, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6899, Micro_F1: 0.9852
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4852
+6
+nnode =  3809
+nmax =  770
+nterm =  374
+nnum =  4183
+snowflakes = 443
+23
+Train =  13
+Valid/Test =  4
+420
+<__main__.MyClass object at 0x2b0477760640>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6996, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6996, Micro_F1: 0.0147
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6899, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6899, Micro_F1: 0.9853
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4853
+6
+nnode =  3605
+nmax =  776
+nterm =  374
+nnum =  3979
+snowflakes = 480
+11
+Train =  6
+Valid/Test =  2
+469
+<__main__.MyClass object at 0x2b04749e6f10>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0065
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6898, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6898, Micro_F1: 0.9935
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4935
+6
+nnode =  3945
+nmax =  777
+nterm =  405
+nnum =  4350
+snowflakes = 622
+29
+Train =  17
+Valid/Test =  5
+593
+<__main__.MyClass object at 0x2b04749f97f0>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0121
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6899, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6899, Micro_F1: 0.9879
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4879
+6
+nnode =  3448
+nmax =  686
+nterm =  345
+nnum =  3793
+snowflakes = 409
+8
+Train =  4
+Valid/Test =  1
+401
+<__main__.MyClass object at 0x2b047782b340>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0075
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6898, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6898, Micro_F1: 0.9925
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4925
+6
+nnode =  2882
+nmax =  527
+nterm =  341
+nnum =  3223
+snowflakes = 342
+9
+Train =  5
+Valid/Test =  1
+333
+<__main__.MyClass object at 0x2b047774eac0>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0091
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6899, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6899, Micro_F1: 0.9909
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4909
+6
+nnode =  3204
+nmax =  642
+nterm =  423
+nnum =  3627
+snowflakes = 550
+15
+Train =  9
+Valid/Test =  3
+535
+<__main__.MyClass object at 0x2b015c1e6610>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6998, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6998, Micro_F1: 0.0057
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6898, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6898, Micro_F1: 0.9943
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4943
+6
+nnode =  3758
+nmax =  710
+nterm =  402
+nnum =  4160
+snowflakes = 418
+13
+Train =  7
+Valid/Test =  2
+405
+<__main__.MyClass object at 0x2b047777aa90>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0100
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6899, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6899, Micro_F1: 0.9900
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4900
+6
+nnode =  3492
+nmax =  711
+nterm =  322
+nnum =  3814
+snowflakes = 491
+27
+Train =  16
+Valid/Test =  5
+464
+<__main__.MyClass object at 0x2b0477442af0>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6996, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6996, Micro_F1: 0.0134
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6899, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6899, Micro_F1: 0.9866
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4866
+6
+nnode =  3370
+nmax =  682
+nterm =  306
+nnum =  3676
+snowflakes = 431
+15
+Train =  9
+Valid/Test =  3
+416
+<__main__.MyClass object at 0x2b047746b670>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0074
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6898, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6898, Micro_F1: 0.9926
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4926
+6
+nnode =  3543
+nmax =  695
+nterm =  427
+nnum =  3970
+snowflakes = 543
+7
+Train =  4
+Valid/Test =  1
+536
+<__main__.MyClass object at 0x2b04778138b0>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6998, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6998, Micro_F1: 0.0038
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6898, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6898, Micro_F1: 0.9962
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4962
+6
+nnode =  3397
+nmax =  776
+nterm =  427
+nnum =  3824
+snowflakes = 367
+8
+Train =  4
+Valid/Test =  1
+359
+<__main__.MyClass object at 0x2b04777711c0>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0084
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6898, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6898, Micro_F1: 0.9916
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4916
+6
+nnode =  3657
+nmax =  717
+nterm =  364
+nnum =  4021
+snowflakes = 607
+22
+Train =  13
+Valid/Test =  4
+585
+<__main__.MyClass object at 0x2b0477831b80>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0087
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6898, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6898, Micro_F1: 0.9913
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4913
+6
+nnode =  3644
+nmax =  732
+nterm =  378
+nnum =  4022
+snowflakes = 536
+29
+Train =  17
+Valid/Test =  5
+507
+<__main__.MyClass object at 0x2b0477874850>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6996, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6996, Micro_F1: 0.0142
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6899, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6899, Micro_F1: 0.9858
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4858
+6
+nnode =  3053
+nmax =  660
+nterm =  376
+nnum =  3429
+snowflakes = 450
+7
+Train =  4
+Valid/Test =  1
+443
+<__main__.MyClass object at 0x2b04749f97f0>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6998, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6998, Micro_F1: 0.0045
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6898, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6898, Micro_F1: 0.9955
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4955
+6
+nnode =  3318
+nmax =  689
+nterm =  416
+nnum =  3734
+snowflakes = 463
+30
+Train =  18
+Valid/Test =  6
+433
+<__main__.MyClass object at 0x2b0214cb6c40>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6996, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6996, Micro_F1: 0.0145
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6899, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6899, Micro_F1: 0.9855
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4855
+6
+nnode =  2876
+nmax =  655
+nterm =  318
+nnum =  3194
+snowflakes = 319
+8
+Train =  4
+Valid/Test =  1
+311
+<__main__.MyClass object at 0x2b0474999c70>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0097
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6899, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6899, Micro_F1: 0.9903
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4903
+6
+nnode =  3445
+nmax =  754
+nterm =  440
+nnum =  3885
+snowflakes = 381
+7
+Train =  4
+Valid/Test =  1
+374
+<__main__.MyClass object at 0x2b0477456d00>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6998, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6998, Micro_F1: 0.0054
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6898, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6898, Micro_F1: 0.9946
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4946
+6
+nnode =  3816
+nmax =  751
+nterm =  444
+nnum =  4260
+snowflakes = 384
+13
+Train =  7
+Valid/Test =  2
+371
+<__main__.MyClass object at 0x2b0474a10d00>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0109
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6899, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6899, Micro_F1: 0.9891
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4891
+6
+nnode =  3303
+nmax =  688
+nterm =  474
+nnum =  3777
+snowflakes = 342
+13
+Train =  7
+Valid/Test =  2
+329
+<__main__.MyClass object at 0x2b04749885b0>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0123
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6899, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6899, Micro_F1: 0.9877
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4877
+6
+nnode =  3193
+nmax =  640
+nterm =  313
+nnum =  3506
+snowflakes = 434
+23
+Train =  13
+Valid/Test =  4
+411
+<__main__.MyClass object at 0x2b0477730fa0>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6996, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6996, Micro_F1: 0.0150
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6899, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6899, Micro_F1: 0.9850
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4850
+6
+nnode =  2970
+nmax =  646
+nterm =  274
+nnum =  3244
+snowflakes = 363
+14
+Train =  8
+Valid/Test =  2
+349
+<__main__.MyClass object at 0x2b0477874850>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0117
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6899, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6899, Micro_F1: 0.9883
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4883
+6
+nnode =  3110
+nmax =  604
+nterm =  354
+nnum =  3464
+snowflakes = 387
+7
+Train =  4
+Valid/Test =  1
+380
+<__main__.MyClass object at 0x2b0474a3bf70>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6998, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6998, Micro_F1: 0.0053
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6898, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6898, Micro_F1: 0.9947
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4947
+6
+nnode =  3894
+nmax =  756
+nterm =  478
+nnum =  4372
+snowflakes = 568
+31
+Train =  18
+Valid/Test =  6
+537
+<__main__.MyClass object at 0x2b0477867f40>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0135
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6899, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6899, Micro_F1: 0.9865
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4865
+6
+nnode =  3356
+nmax =  732
+nterm =  345
+nnum =  3701
+snowflakes = 433
+11
+Train =  6
+Valid/Test =  2
+422
+<__main__.MyClass object at 0x2b0474a550d0>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0072
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6898, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6898, Micro_F1: 0.9928
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4928
+6
+nnode =  3968
+nmax =  746
+nterm =  490
+nnum =  4458
+snowflakes = 612
+21
+Train =  12
+Valid/Test =  4
+591
+<__main__.MyClass object at 0x2b04774c6400>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0086
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6898, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6898, Micro_F1: 0.9914
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4914
+6
+nnode =  3879
+nmax =  727
+nterm =  361
+nnum =  4240
+snowflakes = 471
+26
+Train =  15
+Valid/Test =  5
+445
+<__main__.MyClass object at 0x2b0474974280>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6996, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6996, Micro_F1: 0.0139
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6899, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6899, Micro_F1: 0.9861
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4861
+6
+nnode =  3817
+nmax =  764
+nterm =  432
+nnum =  4249
+snowflakes = 468
+20
+Train =  12
+Valid/Test =  4
+448
+<__main__.MyClass object at 0x2b04774b17f0>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0092
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6899, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6899, Micro_F1: 0.9908
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4908
+6
+nnode =  3509
+nmax =  746
+nterm =  438
+nnum =  3947
+snowflakes = 495
+13
+Train =  7
+Valid/Test =  2
+482
+<__main__.MyClass object at 0x2b0474a94bb0>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0084
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6898, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6898, Micro_F1: 0.9916
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4916
+6
+nnode =  3803
+nmax =  738
+nterm =  364
+nnum =  4167
+snowflakes = 449
+34
+Train =  20
+Valid/Test =  6
+415
+<__main__.MyClass object at 0x2b0474ac23d0>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6996, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6996, Micro_F1: 0.0202
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6899, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6899, Micro_F1: 0.9798
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4798
+6
+nnode =  3600
+nmax =  746
+nterm =  367
+nnum =  3967
+snowflakes = 370
+12
+Train =  7
+Valid/Test =  2
+358
+<__main__.MyClass object at 0x2b04777711c0>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0085
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6898, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6898, Micro_F1: 0.9915
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4915
+6
+nnode =  3719
+nmax =  775
+nterm =  483
+nnum =  4202
+snowflakes = 570
+17
+Train =  10
+Valid/Test =  3
+553
+<__main__.MyClass object at 0x2b0477451dc0>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0074
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6898, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6898, Micro_F1: 0.9926
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4926
+6
+nnode =  3397
+nmax =  732
+nterm =  359
+nnum =  3756
+snowflakes = 390
+8
+Train =  4
+Valid/Test =  1
+382
+<__main__.MyClass object at 0x2b0474a1cbb0>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0079
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6898, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6898, Micro_F1: 0.9921
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4921
+6
+nnode =  3059
+nmax =  726
+nterm =  324
+nnum =  3383
+snowflakes = 502
+46
+Train =  27
+Valid/Test =  9
+456
+<__main__.MyClass object at 0x2b0474a10d00>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6995, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6995, Micro_F1: 0.0233
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6899, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6899, Micro_F1: 0.9767
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4767
+6
+nnode =  3940
+nmax =  747
+nterm =  499
+nnum =  4439
+snowflakes = 505
+7
+Train =  4
+Valid/Test =  1
+498
+<__main__.MyClass object at 0x2b0474a34d30>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6998, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6998, Micro_F1: 0.0040
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6898, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6898, Micro_F1: 0.9960
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4960
+6
+nnode =  2783
+nmax =  585
+nterm =  324
+nnum =  3107
+snowflakes = 416
+8
+Train =  4
+Valid/Test =  1
+408
+<__main__.MyClass object at 0x2b047498c490>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0074
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6898, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6898, Micro_F1: 0.9926
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4926
+6
+nnode =  3125
+nmax =  730
+nterm =  276
+nnum =  3401
+snowflakes = 480
+21
+Train =  12
+Valid/Test =  4
+459
+<__main__.MyClass object at 0x2b0214cb6c40>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0112
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6899, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6899, Micro_F1: 0.9888
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4888
+6
+nnode =  3679
+nmax =  773
+nterm =  377
+nnum =  4056
+snowflakes = 410
+13
+Train =  7
+Valid/Test =  2
+397
+<__main__.MyClass object at 0x2b0474b3a430>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0102
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6899, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6899, Micro_F1: 0.9898
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4898
+6
+nnode =  3011
+nmax =  695
+nterm =  347
+nnum =  3358
+snowflakes = 361
+9
+Train =  5
+Valid/Test =  1
+352
+<__main__.MyClass object at 0x2b0474ad4b20>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0086
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6898, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6898, Micro_F1: 0.9914
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4914
+6
+nnode =  3025
+nmax =  642
+nterm =  303
+nnum =  3328
+snowflakes = 314
+10
+Train =  6
+Valid/Test =  2
+304
+<__main__.MyClass object at 0x2b047496d5e0>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0067
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6898, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6898, Micro_F1: 0.9933
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4933
+6
+nnode =  3342
+nmax =  766
+nterm =  386
+nnum =  3728
+snowflakes = 430
+21
+Train =  12
+Valid/Test =  4
+409
+<__main__.MyClass object at 0x2b0474a52f70>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0126
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6899, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6899, Micro_F1: 0.9874
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4874
+6
+nnode =  3076
+nmax =  573
+nterm =  337
+nnum =  3413
+snowflakes = 415
+14
+Train =  8
+Valid/Test =  2
+401
+<__main__.MyClass object at 0x2b0477730fa0>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0101
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6899, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6899, Micro_F1: 0.9899
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4899
+6
+nnode =  2770
+nmax =  534
+nterm =  279
+nnum =  3049
+snowflakes = 427
+38
+Train =  22
+Valid/Test =  7
+389
+<__main__.MyClass object at 0x2b047779db80>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6995, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6995, Micro_F1: 0.0244
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6900, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6900, Micro_F1: 0.9756
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4756
+6
+nnode =  3200
+nmax =  709
+nterm =  355
+nnum =  3555
+snowflakes = 354
+10
+Train =  6
+Valid/Test =  2
+344
+<__main__.MyClass object at 0x2b0474a28d00>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0059
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6898, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6898, Micro_F1: 0.9941
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4941
+6
+nnode =  3857
+nmax =  783
+nterm =  363
+nnum =  4220
+snowflakes = 518
+20
+Train =  12
+Valid/Test =  4
+498
+<__main__.MyClass object at 0x2b047786b100>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0082
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6898, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6898, Micro_F1: 0.9918
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4918
+6
+nnode =  3502
+nmax =  770
+nterm =  387
+nnum =  3889
+snowflakes = 410
+12
+Train =  7
+Valid/Test =  2
+398
+<__main__.MyClass object at 0x2b0474aa1880>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0077
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6898, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6898, Micro_F1: 0.9923
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4923
+6
+nnode =  3354
+nmax =  606
+nterm =  356
+nnum =  3710
+snowflakes = 502
+36
+Train =  21
+Valid/Test =  7
+466
+<__main__.MyClass object at 0x2b0474b8d4c0>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6996, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6996, Micro_F1: 0.0179
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6899, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6899, Micro_F1: 0.9821
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4821
+6
+nnode =  3459
+nmax =  771
+nterm =  357
+nnum =  3816
+snowflakes = 445
+21
+Train =  12
+Valid/Test =  4
+424
+<__main__.MyClass object at 0x2b0474addb80>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0121
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6899, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6899, Micro_F1: 0.9879
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4879
+6
+nnode =  3705
+nmax =  778
+nterm =  401
+nnum =  4106
+snowflakes = 557
+27
+Train =  16
+Valid/Test =  5
+530
+<__main__.MyClass object at 0x2b0474a613d0>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0117
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6899, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6899, Micro_F1: 0.9883
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4883
+6
+nnode =  3262
+nmax =  758
+nterm =  397
+nnum =  3659
+snowflakes = 397
+8
+Train =  4
+Valid/Test =  1
+389
+<__main__.MyClass object at 0x2b0474bac7f0>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0078
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6898, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6898, Micro_F1: 0.9922
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4922
+6
+nnode =  3238
+nmax =  731
+nterm =  360
+nnum =  3598
+snowflakes = 367
+27
+Train =  16
+Valid/Test =  5
+340
+<__main__.MyClass object at 0x2b0474b3f7c0>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6996, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6996, Micro_F1: 0.0185
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6899, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6899, Micro_F1: 0.9815
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4815
+6
+nnode =  3137
+nmax =  769
+nterm =  369
+nnum =  3506
+snowflakes = 449
+11
+Train =  6
+Valid/Test =  2
+438
+<__main__.MyClass object at 0x2b04778a3100>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0069
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6898, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6898, Micro_F1: 0.9931
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4931
+6
+nnode =  3014
+nmax =  701
+nterm =  361
+nnum =  3375
+snowflakes = 538
+7
+Train =  4
+Valid/Test =  1
+531
+<__main__.MyClass object at 0x2b0474abbb20>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6998, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6998, Micro_F1: 0.0038
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6898, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6898, Micro_F1: 0.9962
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4962
+6
+nnode =  3782
+nmax =  772
+nterm =  419
+nnum =  4201
+snowflakes = 352
+10
+Train =  6
+Valid/Test =  2
+342
+<__main__.MyClass object at 0x2b047749ddc0>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0060
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6898, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6898, Micro_F1: 0.9940
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4940
+6
+nnode =  3410
+nmax =  638
+nterm =  397
+nnum =  3807
+snowflakes = 512
+14
+Train =  8
+Valid/Test =  2
+498
+<__main__.MyClass object at 0x2b0474aa4160>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0081
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6898, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6898, Micro_F1: 0.9919
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4919
+6
+nnode =  2776
+nmax =  536
+nterm =  325
+nnum =  3101
+snowflakes = 347
+11
+Train =  6
+Valid/Test =  2
+336
+<__main__.MyClass object at 0x2b0474b40c10>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0091
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6898, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6898, Micro_F1: 0.9909
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4909
+6
+nnode =  3672
+nmax =  761
+nterm =  413
+nnum =  4085
+snowflakes = 597
+24
+Train =  14
+Valid/Test =  4
+573
+<__main__.MyClass object at 0x2b0474addb80>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0107
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6899, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6899, Micro_F1: 0.9893
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4893
+6
+nnode =  3840
+nmax =  771
+nterm =  369
+nnum =  4209
+snowflakes = 403
+14
+Train =  8
+Valid/Test =  2
+389
+<__main__.MyClass object at 0x2b0474ac33d0>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0104
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6899, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6899, Micro_F1: 0.9896
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4896
+6
+nnode =  3964
+nmax =  761
+nterm =  422
+nnum =  4386
+snowflakes = 433
+15
+Train =  9
+Valid/Test =  3
+418
+<__main__.MyClass object at 0x2b0474b604f0>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0073
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6898, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6898, Micro_F1: 0.9927
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4927
+6
+nnode =  3162
+nmax =  669
+nterm =  337
+nnum =  3499
+snowflakes = 343
+7
+Train =  4
+Valid/Test =  1
+336
+<__main__.MyClass object at 0x2b04778242b0>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0060
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6898, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6898, Micro_F1: 0.9940
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4940
+6
+nnode =  3919
+nmax =  747
+nterm =  432
+nnum =  4351
+snowflakes = 433
+13
+Train =  7
+Valid/Test =  2
+420
+<__main__.MyClass object at 0x2b047498c490>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0096
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6899, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6899, Micro_F1: 0.9904
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4904
+6
+nnode =  3034
+nmax =  597
+nterm =  349
+nnum =  3383
+snowflakes = 399
+12
+Train =  7
+Valid/Test =  2
+387
+<__main__.MyClass object at 0x2b0474c53310>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0079
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6898, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6898, Micro_F1: 0.9921
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4921
+6
+nnode =  3609
+nmax =  688
+nterm =  428
+nnum =  4037
+snowflakes = 417
+10
+Train =  6
+Valid/Test =  2
+407
+<__main__.MyClass object at 0x2b0477441df0>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6998, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6998, Micro_F1: 0.0050
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6898, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6898, Micro_F1: 0.9950
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4950
+6
+nnode =  3484
+nmax =  760
+nterm =  365
+nnum =  3849
+snowflakes = 444
+12
+Train =  7
+Valid/Test =  2
+432
+<__main__.MyClass object at 0x2b04778a0f10>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0070
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6898, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6898, Micro_F1: 0.9930
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4930
+6
+nnode =  3845
+nmax =  774
+nterm =  430
+nnum =  4275
+snowflakes = 442
+9
+Train =  5
+Valid/Test =  1
+433
+<__main__.MyClass object at 0x2b0474addb80>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0070
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6898, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6898, Micro_F1: 0.9930
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4930
+6
+nnode =  3419
+nmax =  670
+nterm =  493
+nnum =  3912
+snowflakes = 319
+8
+Train =  4
+Valid/Test =  1
+311
+<__main__.MyClass object at 0x2b0474974280>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0097
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6899, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6899, Micro_F1: 0.9903
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4903
+6
+nnode =  3795
+nmax =  699
+nterm =  412
+nnum =  4207
+snowflakes = 466
+13
+Train =  7
+Valid/Test =  2
+453
+<__main__.MyClass object at 0x2b0474bd2430>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0089
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6898, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6898, Micro_F1: 0.9911
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4911
+6
+nnode =  3651
+nmax =  722
+nterm =  483
+nnum =  4134
+snowflakes = 370
+7
+Train =  4
+Valid/Test =  1
+363
+<__main__.MyClass object at 0x2b0474bcb040>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6998, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6998, Micro_F1: 0.0056
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6898, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6898, Micro_F1: 0.9944
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4944
+6
+nnode =  3383
+nmax =  703
+nterm =  380
+nnum =  3763
+snowflakes = 482
+23
+Train =  13
+Valid/Test =  4
+459
+<__main__.MyClass object at 0x2b04749f6eb0>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6996, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6996, Micro_F1: 0.0134
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6899, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6899, Micro_F1: 0.9866
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4866
+6
+nnode =  3235
+nmax =  730
+nterm =  347
+nnum =  3582
+snowflakes = 433
+13
+Train =  7
+Valid/Test =  2
+420
+<__main__.MyClass object at 0x2b0474aa4160>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0096
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6899, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6899, Micro_F1: 0.9904
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4904
+6
+nnode =  3764
+nmax =  708
+nterm =  389
+nnum =  4153
+snowflakes = 684
+35
+Train =  21
+Valid/Test =  7
+649
+<__main__.MyClass object at 0x2b0474addb80>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0111
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6899, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6899, Micro_F1: 0.9889
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4889
+6
+nnode =  3211
+nmax =  765
+nterm =  303
+nnum =  3514
+snowflakes = 500
+52
+Train =  31
+Valid/Test =  10
+448
+<__main__.MyClass object at 0x2b0474b85550>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6995, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6995, Micro_F1: 0.0263
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6900, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6900, Micro_F1: 0.9737
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4737
+6
+nnode =  3227
+nmax =  670
+nterm =  369
+nnum =  3596
+snowflakes = 359
+9
+Train =  5
+Valid/Test =  1
+350
+<__main__.MyClass object at 0x2b0477782e80>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0086
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6898, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6898, Micro_F1: 0.9914
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4914
+6
+nnode =  3497
+nmax =  756
+nterm =  419
+nnum =  3916
+snowflakes = 408
+8
+Train =  4
+Valid/Test =  1
+400
+<__main__.MyClass object at 0x2b0474b81790>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0075
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6898, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6898, Micro_F1: 0.9925
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4925
+6
+nnode =  3869
+nmax =  714
+nterm =  464
+nnum =  4333
+snowflakes = 489
+8
+Train =  4
+Valid/Test =  1
+481
+<__main__.MyClass object at 0x2b0474ad6f40>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0063
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6898, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6898, Micro_F1: 0.9937
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4937
+6
+nnode =  3547
+nmax =  735
+nterm =  374
+nnum =  3921
+snowflakes = 488
+7
+Train =  4
+Valid/Test =  1
+481
+<__main__.MyClass object at 0x2b0474afa430>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6998, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6998, Micro_F1: 0.0042
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6898, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6898, Micro_F1: 0.9958
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4958
+6
+nnode =  3837
+nmax =  778
+nterm =  432
+nnum =  4269
+snowflakes = 554
+15
+Train =  9
+Valid/Test =  3
+539
+<__main__.MyClass object at 0x2b04778242b0>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6998, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6998, Micro_F1: 0.0057
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6898, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6898, Micro_F1: 0.9943
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4943
+6
+nnode =  3324
+nmax =  730
+nterm =  321
+nnum =  3645
+snowflakes = 530
+18
+Train =  10
+Valid/Test =  3
+512
+<__main__.MyClass object at 0x2b0474b34a60>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0099
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6899, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6899, Micro_F1: 0.9901
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4901
+6
+nnode =  3163
+nmax =  680
+nterm =  310
+nnum =  3473
+snowflakes = 505
+22
+Train =  13
+Valid/Test =  4
+483
+<__main__.MyClass object at 0x2b0477482f70>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0106
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6899, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6899, Micro_F1: 0.9894
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4894
+6
+nnode =  3413
+nmax =  729
+nterm =  346
+nnum =  3759
+snowflakes = 419
+18
+Train =  10
+Valid/Test =  3
+401
+<__main__.MyClass object at 0x2b0474b81790>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0127
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6899, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6899, Micro_F1: 0.9873
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4873
+6
+nnode =  3979
+nmax =  747
+nterm =  412
+nnum =  4391
+snowflakes = 515
+16
+Train =  9
+Valid/Test =  3
+499
+<__main__.MyClass object at 0x2b0474c32d00>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0081
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6898, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6898, Micro_F1: 0.9919
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4919
+6
+nnode =  3232
+nmax =  771
+nterm =  359
+nnum =  3591
+snowflakes = 370
+10
+Train =  6
+Valid/Test =  2
+360
+<__main__.MyClass object at 0x2b0474d09040>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6998, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6998, Micro_F1: 0.0056
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6898, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6898, Micro_F1: 0.9944
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4944
+6
+nnode =  3557
+nmax =  756
+nterm =  333
+nnum =  3890
+snowflakes = 377
+8
+Train =  4
+Valid/Test =  1
+369
+<__main__.MyClass object at 0x2b0474bb6220>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0082
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6898, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6898, Micro_F1: 0.9918
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4918
+6
+nnode =  3061
+nmax =  628
+nterm =  318
+nnum =  3379
+snowflakes = 380
+8
+Train =  4
+Valid/Test =  1
+372
+<__main__.MyClass object at 0x2b0474c44d30>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0081
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6898, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6898, Micro_F1: 0.9919
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4919
+6
+nnode =  3617
+nmax =  783
+nterm =  348
+nnum =  3965
+snowflakes = 376
+10
+Train =  6
+Valid/Test =  2
+366
+<__main__.MyClass object at 0x2b0474c957f0>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6998, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6998, Micro_F1: 0.0056
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6898, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6898, Micro_F1: 0.9944
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4944
+6
+nnode =  4039
+nmax =  741
+nterm =  400
+nnum =  4439
+snowflakes = 533
+26
+Train =  15
+Valid/Test =  5
+507
+<__main__.MyClass object at 0x2b0474d2e910>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0122
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6899, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6899, Micro_F1: 0.9878
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4878
+6
+nnode =  3376
+nmax =  777
+nterm =  348
+nnum =  3724
+snowflakes = 508
+8
+Train =  4
+Valid/Test =  1
+500
+<__main__.MyClass object at 0x2b04749e2dc0>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0060
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6898, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6898, Micro_F1: 0.9940
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4940
+6
+nnode =  3033
+nmax =  692
+nterm =  296
+nnum =  3329
+snowflakes = 350
+20
+Train =  12
+Valid/Test =  4
+330
+<__main__.MyClass object at 0x2b0477441df0>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0126
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6899, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6899, Micro_F1: 0.9874
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4874
+6
+nnode =  3707
+nmax =  761
+nterm =  335
+nnum =  4042
+snowflakes = 418
+12
+Train =  7
+Valid/Test =  2
+406
+<__main__.MyClass object at 0x2b0474a4f490>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0075
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6898, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6898, Micro_F1: 0.9925
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4925
+6
+nnode =  3478
+nmax =  778
+nterm =  337
+nnum =  3815
+snowflakes = 449
+10
+Train =  6
+Valid/Test =  2
+439
+<__main__.MyClass object at 0x2b0474db96d0>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6998, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6998, Micro_F1: 0.0046
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6898, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6898, Micro_F1: 0.9954
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4954
+6
+nnode =  3554
+nmax =  701
+nterm =  388
+nnum =  3942
+snowflakes = 396
+10
+Train =  6
+Valid/Test =  2
+386
+<__main__.MyClass object at 0x2b0474aa4160>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6998, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6998, Micro_F1: 0.0053
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6898, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6898, Micro_F1: 0.9947
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4947
+6
+nnode =  2944
+nmax =  722
+nterm =  279
+nnum =  3223
+snowflakes = 368
+12
+Train =  7
+Valid/Test =  2
+356
+<__main__.MyClass object at 0x2b0477782e80>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0086
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6898, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6898, Micro_F1: 0.9914
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4914
+6
+nnode =  3652
+nmax =  762
+nterm =  383
+nnum =  4035
+snowflakes = 459
+13
+Train =  7
+Valid/Test =  2
+446
+<__main__.MyClass object at 0x2b0474bc2c70>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0091
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6898, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6898, Micro_F1: 0.9909
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4909
+6
+nnode =  4000
+nmax =  771
+nterm =  417
+nnum =  4417
+snowflakes = 579
+17
+Train =  10
+Valid/Test =  3
+562
+<__main__.MyClass object at 0x2b0474d454c0>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0072
+Run 1
+--------------------Best Result-------------------------
+Train - Loss: 0.6898, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6898, Micro_F1: 0.9928
+--------------------Final Result-------------------------
+Test - Micro_F1:0.5000+0.4928
+6
+nnode =  3302
+nmax =  763
+nterm =  380
+nnum =  3682
+snowflakes = 392
+20
+Train =  12
+Valid/Test =  4
+372
+<__main__.MyClass object at 0x2b047495d2e0>
+Run 0
+--------------------Best Result-------------------------
+Train - Loss: 0.6997, Micro_F1: 0.5000
+Valid - Loss: 0.6932, Micro_F1: 0.5000
+Test - Loss: 0.6997, Micro_F1: 0.0111

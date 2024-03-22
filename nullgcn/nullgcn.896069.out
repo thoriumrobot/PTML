@@ -1,0 +1,41 @@
+Starting /home/k/ks225/.bash_profile ... standard AFS bash profile
+
+========================
+Home directory : /home/k/ks225 is not in AFS -- skipping quota check
+========================
+
+On host node650 :
+	 10:26:06 up 86 days, 19:38,  0 users,  load average: 2.21, 1.95, 2.16
+
+=== === === Your Kerberos ticket and AFS token status === === ===
+klist: No credentials cache found (filename: /tmp/krb5cc_480898_3sV2PVbHkn)
+Kerberos : 
+AFS      : 
+
+Loading default modules ...
+Create file : "/home/k/ks225/.modules" to customize.
+
+No modules loaded
+../aten/src/ATen/native/cuda/ScatterGatherKernel.cu:144: operator(): block: [0,0,0], thread: [16,0,0] Assertion `idx_dim >= 0 && idx_dim < index_size && "index out of bounds"` failed.
+/home/k/ks225/annotations/spectral_2hv/data1.json
+Traceback (most recent call last):
+  File "ng_comp.py", line 125, in <module>
+    out = model(data)
+  File "/home/k/ks225/miniconda3/envs/largemem/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1501, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "ng_comp.py", line 59, in forward
+    x = self.conv2(x, edge_index)
+  File "/home/k/ks225/miniconda3/envs/largemem/lib/python3.8/site-packages/torch/nn/modules/module.py", line 1501, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/k/ks225/miniconda3/envs/largemem/lib/python3.8/site-packages/torch_geometric/nn/conv/gcn_conv.py", line 210, in forward
+    edge_index, edge_weight = gcn_norm(  # yapf: disable
+  File "/home/k/ks225/miniconda3/envs/largemem/lib/python3.8/site-packages/torch_geometric/nn/conv/gcn_conv.py", line 91, in gcn_norm
+    edge_index, edge_weight = add_remaining_self_loops(
+  File "/home/k/ks225/miniconda3/envs/largemem/lib/python3.8/site-packages/torch_geometric/utils/loop.py", line 370, in add_remaining_self_loops
+    edge_index = torch.cat([edge_index[:, mask], loop_index], dim=1)
+RuntimeError: CUDA error: device-side assert triggered
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1.
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+srun: error: node650: task 0: Exited with exit code 1

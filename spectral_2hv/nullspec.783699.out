@@ -1,0 +1,27 @@
+Starting /home/k/ks225/.bash_profile ... standard AFS bash profile
+
+========================
+Home directory : /home/k/ks225 is not in AFS -- skipping quota check
+========================
+
+On host node429 :
+	 16:48:25 up 55 days, 20:48,  0 users,  load average: 0.68, 0.48, 0.62
+
+=== === === Your Kerberos ticket and AFS token status === === ===
+klist: No credentials cache found (filename: /tmp/krb5cc_480898_VZrlCWN9h5)
+Kerberos : 
+AFS      : 
+
+Loading default modules ...
+Create file : "/home/k/ks225/.modules" to customize.
+
+No modules loaded
+/home/k/ks225/miniconda3/envs/spenv/lib/python3.11/site-packages/sklearn/cluster/_kmeans.py:870: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
+  warnings.warn(
+max_size =  1195
+3109
+nnode =  2642574
+nmax =  893
+nterm =  262862
+nnum =  2905436
+[1 2 1 ... 2 2 0]
