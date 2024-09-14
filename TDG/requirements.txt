@@ -1,5 +1,0 @@
-javalang
-networkx
-tensorflow
-scikit-learn
-spektral==1.0.3
