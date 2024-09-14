@@ -70,7 +70,7 @@ def main(json_output_dir, model_output_path, batch_size):
 
 if __name__ == "__main__":
     if len(sys.argv) != 3:
-        print("Usage: python train_typilus.py <JsonOutputDir> <ModelOutputPath>")
+        print("Usage: python train_tdggcn.py <JsonOutputDir> <ModelOutputPath>")
         sys.exit(1)
 
     logging.basicConfig(level=logging.INFO)
