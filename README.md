@@ -21,18 +21,3 @@ GTN_perc: Train the GTN model by percentage.
 reann_perc: Reannotate repositories by percentage.
 
 TDG: TDG GCN
-
----
-
-Prerequisites for GTN:
-
-OS: Tested exclusively on Ubuntu 22.04.
-
-Graphics card: Tested on a system with a 16 GB GPU and CUDA installed.
-
-conda create --name nullgtn python=3.8 openjdk=11.0 maven -c anaconda -c conda-forge
-conda activate nullgtn
-git clone https://github.com/thoriumrobot/nullgtn-artifact
-cd nullgtn-artifact
-pip install -r pip_new.txt
-pip install torch_geometric pyg_lib torch_scatter torch_sparse torch_cluster torch_spline_conv -f https://data.pyg.org/whl/torch-2.0.0+cu117.html
