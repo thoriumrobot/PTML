@@ -21,3 +21,5 @@ GTN_perc: Train the GTN model by percentage.
 reann_perc: Reannotate repositories by percentage.
 
 TDG: TDG GCN
+
+gptreann: Use GPT-4o-mini to reannotate the code
