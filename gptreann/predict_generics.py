@@ -322,18 +322,20 @@ Candidates:
 
 IMPORTANT: Return JSON ONLY.
 """
-    
-    response = openai.ChatCompletion.create(
-        model="gpt-4",
+
+    response = openai.chat.completions.create(
+        model="gpt-4o-mini",  # or the correct model name
         messages=[
             {"role": "system", "content": "You are a helpful assistant."},
-            {"role": "user", "content": prompt.strip()}
+            {"role": "user", "content": [
+                {"type": "text", "text": prompt.strip()}]}
         ],
         max_tokens=800,
         temperature=0.0
     )
     
     content = response.choices[0].message.content
+    print("Response:", response.json())  # Add this line to inspect the response
     try:
         decisions = json.loads(content)
     except json.JSONDecodeError:
@@ -521,4 +523,3 @@ if __name__ == "__main__":
         print("Usage: python script.py <input_file.java> <output_file.java>")
         sys.exit(1)
     main(sys.argv[1], sys.argv[2])
-
